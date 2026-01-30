@@ -2,6 +2,8 @@
 
 PHP knihovna a API pro načítání odjezdů z PMDP (Plzeňské městské dopravní podniky) ve formátu kompatibilním s RFC Živák https://zivyobraz.eu/.
 
+Vyhledávač ID zastávky pro vyplnění do widgetu je zde https://makerclass.cz/data/pmdp/.
+
 ## Funkce
 
 - Načítání odjezdů z PMDP API pro až 3 zastávky současně
