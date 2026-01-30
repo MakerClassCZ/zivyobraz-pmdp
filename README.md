@@ -1,4 +1,4 @@
-# PMDP Departures API
+# Odjezdy PMPD pro Živý Obraz
 
 PHP knihovna a API pro načítání odjezdů z PMDP (Plzeňské městské dopravní podniky) ve formátu kompatibilním s RFC Živák https://zivyobraz.eu/.
 
