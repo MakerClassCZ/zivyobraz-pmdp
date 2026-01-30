@@ -1,0 +1,7238 @@
+[
+  {
+    "id": 140,
+    "name": "Adelova",
+    "lines": [
+      "16",
+      "19",
+      "22",
+      "N1",
+      "N4"
+    ],
+    "directions": {
+      "16": [
+        "Doubravka",
+        "Sídliště Bory"
+      ],
+      "19": [
+        "Karlov",
+        "Nová Hospoda"
+      ],
+      "22": [
+        "Koterov",
+        "Malvíny"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 197,
+    "name": "Amfiteátr",
+    "lines": [
+      "25",
+      "41",
+      "56"
+    ],
+    "directions": {
+      "25": [
+        "Bolevec",
+        "Bory"
+      ],
+      "41": [
+        "Křimice",
+        "Vinice"
+      ],
+      "56": [
+        "Město Touškov",
+        "Vinice"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "name": "Anglické nábřeží",
+    "lines": [
+      "1",
+      "2",
+      "13",
+      "14"
+    ],
+    "directions": {
+      "1": [
+        "Bolevec",
+        "Slovany"
+      ],
+      "2": [
+        "Sady Pětatřicátníků",
+        "Světovar"
+      ],
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ],
+      "14": [
+        "Pařížská"
+      ]
+    }
+  },
+  {
+    "id": 165,
+    "name": "Barvínková",
+    "lines": [
+      "22",
+      "51",
+      "N5"
+    ],
+    "directions": {
+      "22": [
+        "Koterov",
+        "Malvíny"
+      ],
+      "51": [
+        "Slovany",
+        "Starý Plzenec, Vilová čtvrť"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "name": "Bazén Slovany",
+    "lines": [
+      "2"
+    ],
+    "directions": {
+      "2": [
+        "Sady Pětatřicátníků",
+        "Světovar"
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "name": "Belánka",
+    "lines": [
+      "10"
+    ],
+    "directions": {
+      "10": [
+        "Tylova"
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "name": "Bolevec",
+    "lines": [
+      "1",
+      "24",
+      "25",
+      "34",
+      "58",
+      "N1"
+    ],
+    "directions": {
+      "1": [
+        "Bolevec",
+        "Slovany"
+      ],
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "25": [
+        "Bolevec",
+        "Bory"
+      ],
+      "34": [
+        "Pařížská",
+        "Třemošná, ves"
+      ],
+      "58": [
+        "Nádraží Bílá Hora",
+        "Okounová"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "name": "Bolevecká náves",
+    "lines": [
+      "1",
+      "24",
+      "25",
+      "30",
+      "N1",
+      "N4"
+    ],
+    "directions": {
+      "1": [
+        "Bolevec",
+        "Slovany"
+      ],
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "25": [
+        "Bolevec",
+        "Bory"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 240,
+    "name": "Bolevecký rybník",
+    "lines": [
+      "30",
+      "N4"
+    ],
+    "directions": {
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 133,
+    "name": "Borská pole",
+    "lines": [
+      "15",
+      "18",
+      "19",
+      "25",
+      "29",
+      "30"
+    ],
+    "directions": {
+      "15": [
+        "Lobzy",
+        "Nová Hospoda"
+      ],
+      "18": [
+        "Borská pole",
+        "CAN Husova"
+      ],
+      "19": [
+        "Karlov"
+      ],
+      "25": [
+        "Bory"
+      ],
+      "29": [
+        "Borská pole",
+        "Doubravka"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "name": "Borský park",
+    "lines": [
+      "4",
+      "19",
+      "21",
+      "23",
+      "30",
+      "32",
+      "36",
+      "39",
+      "N1",
+      "N4"
+    ],
+    "directions": {
+      "4": [
+        "Košutka",
+        "Univerzita"
+      ],
+      "19": [
+        "Karlov",
+        "Nová Hospoda"
+      ],
+      "21": [
+        "Bory",
+        "Litice"
+      ],
+      "23": [
+        "Bory",
+        "Slovany"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ],
+      "32": [
+        "NC Černice",
+        "Škoda VIII. brána"
+      ],
+      "36": [
+        "Bory",
+        "Sídliště Litice"
+      ],
+      "39": [
+        "Kalendářní",
+        "Tyršův most"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "name": "Bory",
+    "lines": [
+      "4",
+      "19",
+      "21",
+      "23",
+      "24",
+      "25",
+      "26",
+      "30",
+      "32",
+      "36",
+      "39",
+      "42",
+      "N1"
+    ],
+    "directions": {
+      "4": [
+        "Košutka",
+        "Univerzita"
+      ],
+      "19": [
+        "Karlov",
+        "Nová Hospoda"
+      ],
+      "21": [
+        "Bory",
+        "Litice"
+      ],
+      "23": [
+        "Bory",
+        "Slovany"
+      ],
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "25": [
+        "Bolevec",
+        "Bory"
+      ],
+      "26": [
+        "Nová Ves",
+        "U Luny"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ],
+      "32": [
+        "NC Černice",
+        "Škoda VIII. brána"
+      ],
+      "36": [
+        "Bory",
+        "Sídliště Litice"
+      ],
+      "39": [
+        "Kalendářní",
+        "Tyršův most"
+      ],
+      "42": [
+        "Lhota",
+        "U Luny"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "name": "Boženy Němcové",
+    "lines": [
+      "4"
+    ],
+    "directions": {
+      "4": [
+        "Košutka",
+        "Univerzita"
+      ]
+    }
+  },
+  {
+    "id": 93,
+    "name": "Božkov",
+    "lines": [
+      "12"
+    ],
+    "directions": {
+      "12": [
+        "Letkov, V Podlesí",
+        "Nová Hospoda"
+      ]
+    }
+  },
+  {
+    "id": 196,
+    "name": "Brněnská",
+    "lines": [
+      "25",
+      "41",
+      "56",
+      "N1",
+      "N4"
+    ],
+    "directions": {
+      "25": [
+        "Bolevec",
+        "Bory"
+      ],
+      "41": [
+        "Křimice",
+        "Vinice"
+      ],
+      "56": [
+        "Město Touškov",
+        "Vinice"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "name": "Brojova",
+    "lines": [
+      "2"
+    ],
+    "directions": {
+      "2": [
+        "Sady Pětatřicátníků",
+        "Světovar"
+      ]
+    }
+  },
+  {
+    "id": 70,
+    "name": "Bručná",
+    "lines": [
+      "10",
+      "13",
+      "N2",
+      "N5"
+    ],
+    "directions": {
+      "10": [
+        "Tylova",
+        "Černice"
+      ],
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ],
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 220,
+    "name": "Bukovec",
+    "lines": [
+      "28"
+    ],
+    "directions": {
+      "28": [
+        "CAN Husova",
+        "Papírna Bukovec"
+      ]
+    }
+  },
+  {
+    "id": 301,
+    "name": "Bušovice",
+    "lines": [
+      "N11"
+    ],
+    "directions": {
+      "N11": [
+        "Bušovice, Sedlecko"
+      ]
+    }
+  },
+  {
+    "id": 302,
+    "name": "Bušovice, Sedlecko",
+    "lines": [
+      "N11"
+    ],
+    "directions": {
+      "N11": [
+        "Bušovice, Sedlecko",
+        "Mrakodrap"
+      ]
+    }
+  },
+  {
+    "id": 151,
+    "name": "Bílá Hora",
+    "lines": [
+      "20",
+      "58",
+      "N4"
+    ],
+    "directions": {
+      "20": [
+        "Mrakodrap",
+        "Zruč - Senec"
+      ],
+      "58": [
+        "Okounová"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 87,
+    "name": "CAN Husova",
+    "lines": [
+      "11",
+      "18",
+      "28",
+      "41",
+      "56"
+    ],
+    "directions": {
+      "11": [
+        "Křimice",
+        "Ústřední hřbitov"
+      ],
+      "18": [
+        "Borská pole",
+        "CAN Husova"
+      ],
+      "28": [
+        "CAN Husova",
+        "Papírna Bukovec"
+      ],
+      "41": [
+        "Křimice",
+        "Vinice"
+      ],
+      "56": [
+        "Město Touškov",
+        "Vinice"
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "name": "CAN Skvrňanská",
+    "lines": [
+      "2A"
+    ],
+    "directions": {
+      "2A": [
+        "Náměstí Republiky",
+        "Skvrňany"
+      ]
+    }
+  },
+  {
+    "id": 86,
+    "name": "CAN Tylova",
+    "lines": [
+      "11",
+      "12",
+      "18",
+      "N2",
+      "N5"
+    ],
+    "directions": {
+      "11": [
+        "Ústřední hřbitov"
+      ],
+      "12": [
+        "Letkov, V Podlesí",
+        "Nová Hospoda"
+      ],
+      "18": [
+        "Borská pole"
+      ],
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 202,
+    "name": "Chaty",
+    "lines": [
+      "26",
+      "42"
+    ],
+    "directions": {
+      "26": [
+        "Nová Ves",
+        "U Luny"
+      ],
+      "42": [
+        "Lhota",
+        "U Luny"
+      ]
+    }
+  },
+  {
+    "id": 268,
+    "name": "Chebská",
+    "lines": [
+      "24",
+      "25",
+      "37",
+      "41",
+      "56",
+      "N5"
+    ],
+    "directions": {
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "25": [
+        "Bolevec",
+        "Bory"
+      ],
+      "37": [
+        "Křimice",
+        "Macháčkova"
+      ],
+      "41": [
+        "Křimice",
+        "Vinice"
+      ],
+      "56": [
+        "Město Touškov",
+        "Vinice"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 219,
+    "name": "Chlumek",
+    "lines": [
+      "28"
+    ],
+    "directions": {
+      "28": [
+        "CAN Husova",
+        "Papírna Bukovec"
+      ]
+    }
+  },
+  {
+    "id": 44,
+    "name": "Chodské náměstí",
+    "lines": [
+      "4",
+      "N1",
+      "N4"
+    ],
+    "directions": {
+      "4": [
+        "Košutka",
+        "Univerzita"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 311,
+    "name": "Chotěšov, u kláštera",
+    "lines": [
+      "N12"
+    ],
+    "directions": {
+      "N12": [
+        "Stod"
+      ]
+    }
+  },
+  {
+    "id": 310,
+    "name": "Chotěšov, žel. st.",
+    "lines": [
+      "N12"
+    ],
+    "directions": {
+      "N12": [
+        "NC Borská pole",
+        "Stod"
+      ]
+    }
+  },
+  {
+    "id": 300,
+    "name": "Chrást, Lidový dům",
+    "lines": [
+      "N11"
+    ],
+    "directions": {
+      "N11": [
+        "Bušovice, Sedlecko",
+        "Mrakodrap"
+      ]
+    }
+  },
+  {
+    "id": 299,
+    "name": "Chrást, ZŠ",
+    "lines": [
+      "N11"
+    ],
+    "directions": {
+      "N11": [
+        "Bušovice, Sedlecko",
+        "Mrakodrap"
+      ]
+    }
+  },
+  {
+    "id": 172,
+    "name": "Chválenická",
+    "lines": [
+      "23",
+      "31"
+    ],
+    "directions": {
+      "23": [
+        "Slovany"
+      ],
+      "31": [
+        "Slovany"
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "name": "Cínová",
+    "lines": [
+      "15",
+      "17",
+      "18",
+      "19",
+      "22",
+      "N7"
+    ],
+    "directions": {
+      "15": [
+        "Lobzy",
+        "Nová Hospoda"
+      ],
+      "17": [
+        "Doubravka",
+        "Nová Hospoda"
+      ],
+      "18": [
+        "Borská pole",
+        "CAN Husova"
+      ],
+      "19": [
+        "Karlov",
+        "Nová Hospoda"
+      ],
+      "22": [
+        "Koterov",
+        "Malvíny"
+      ],
+      "N7": [
+        "Mrakodrap",
+        "Nová Hospoda"
+      ]
+    }
+  },
+  {
+    "id": 265,
+    "name": "Daiho",
+    "lines": [
+      "25"
+    ],
+    "directions": {
+      "25": [
+        "Bolevec"
+      ]
+    }
+  },
+  {
+    "id": 82,
+    "name": "Divadlo Alfa",
+    "lines": [
+      "11",
+      "15",
+      "N3",
+      "N6"
+    ],
+    "directions": {
+      "11": [
+        "Křimice",
+        "Ústřední hřbitov"
+      ],
+      "15": [
+        "Lobzy",
+        "Nová Hospoda"
+      ],
+      "N3": [
+        "Doubravka",
+        "Sídliště Košutka"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ]
+    }
+  },
+  {
+    "id": 228,
+    "name": "Divadlo J. K. Tyla",
+    "lines": [
+      "28",
+      "41",
+      "56"
+    ],
+    "directions": {
+      "28": [
+        "CAN Husova",
+        "Papírna Bukovec"
+      ],
+      "41": [
+        "Křimice",
+        "Vinice"
+      ],
+      "56": [
+        "Město Touškov",
+        "Vinice"
+      ]
+    }
+  },
+  {
+    "id": 43,
+    "name": "Dobrovského",
+    "lines": [
+      "4",
+      "16",
+      "19",
+      "22",
+      "N1",
+      "N4"
+    ],
+    "directions": {
+      "4": [
+        "Košutka",
+        "Univerzita"
+      ],
+      "16": [
+        "Doubravka",
+        "Sídliště Bory"
+      ],
+      "19": [
+        "Karlov",
+        "Nová Hospoda"
+      ],
+      "22": [
+        "Koterov",
+        "Malvíny"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 328,
+    "name": "Dolní Vlkýš",
+    "lines": [
+      "35"
+    ],
+    "directions": {
+      "35": [
+        "Dolní Vlkýš",
+        "Radčice"
+      ]
+    }
+  },
+  {
+    "id": 105,
+    "name": "Domažlická rondel",
+    "lines": [
+      "12",
+      "43"
+    ],
+    "directions": {
+      "12": [
+        "Letkov, V Podlesí",
+        "Nová Hospoda"
+      ],
+      "43": [
+        "Zadní Skvrňany",
+        "Zátiší"
+      ]
+    }
+  },
+  {
+    "id": 134,
+    "name": "Doubravka",
+    "lines": [
+      "16",
+      "17",
+      "28",
+      "29",
+      "38",
+      "N11",
+      "N3",
+      "N6"
+    ],
+    "directions": {
+      "16": [
+        "Doubravka",
+        "Sídliště Bory"
+      ],
+      "17": [
+        "Doubravka",
+        "Nová Hospoda"
+      ],
+      "28": [
+        "CAN Husova",
+        "Papírna Bukovec"
+      ],
+      "29": [
+        "Borská pole",
+        "Doubravka"
+      ],
+      "38": [
+        "Lobzy",
+        "Červený Hrádek"
+      ],
+      "N3": [
+        "Doubravka",
+        "Sídliště Košutka"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ],
+      "N11": [
+        "Mrakodrap"
+      ]
+    }
+  },
+  {
+    "id": 66,
+    "name": "Doudlevce ETZ",
+    "lines": [
+      "10",
+      "13",
+      "14",
+      "29"
+    ],
+    "directions": {
+      "10": [
+        "Tylova",
+        "Černice"
+      ],
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ],
+      "14": [
+        "Pařížská",
+        "Sídliště Bory"
+      ],
+      "29": [
+        "Borská pole",
+        "Doubravka"
+      ]
+    }
+  },
+  {
+    "id": 41,
+    "name": "Dvořákova",
+    "lines": [
+      "4"
+    ],
+    "directions": {
+      "4": [
+        "Košutka",
+        "Univerzita"
+      ]
+    }
+  },
+  {
+    "id": 298,
+    "name": "Dýšina, Armaturka",
+    "lines": [
+      "N11"
+    ],
+    "directions": {
+      "N11": [
+        "Bušovice, Sedlecko"
+      ]
+    }
+  },
+  {
+    "id": 297,
+    "name": "Dýšina, náves",
+    "lines": [
+      "N11"
+    ],
+    "directions": {
+      "N11": [
+        "Bušovice, Sedlecko"
+      ]
+    }
+  },
+  {
+    "id": 224,
+    "name": "Ejpovická",
+    "lines": [
+      "28",
+      "38"
+    ],
+    "directions": {
+      "28": [
+        "CAN Husova",
+        "Papírna Bukovec"
+      ],
+      "38": [
+        "Lobzy",
+        "Červený Hrádek"
+      ]
+    }
+  },
+  {
+    "id": 72,
+    "name": "Fialková",
+    "lines": [
+      "10",
+      "13",
+      "23",
+      "N2",
+      "N5"
+    ],
+    "directions": {
+      "10": [
+        "Tylova",
+        "Černice"
+      ],
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ],
+      "23": [
+        "Bory",
+        "Slovany"
+      ],
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 110,
+    "name": "Folmavská rondel",
+    "lines": [
+      "15",
+      "17",
+      "19",
+      "24",
+      "N7"
+    ],
+    "directions": {
+      "15": [
+        "Lobzy"
+      ],
+      "17": [
+        "Doubravka"
+      ],
+      "19": [
+        "Karlov"
+      ],
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "N7": [
+        "Mrakodrap"
+      ]
+    }
+  },
+  {
+    "id": 83,
+    "name": "Gambrinus",
+    "lines": [
+      "11",
+      "13",
+      "15",
+      "16",
+      "17",
+      "28",
+      "N3",
+      "N6"
+    ],
+    "directions": {
+      "11": [
+        "Křimice",
+        "Ústřední hřbitov"
+      ],
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ],
+      "15": [
+        "Lobzy",
+        "Nová Hospoda"
+      ],
+      "16": [
+        "Doubravka",
+        "Sídliště Bory"
+      ],
+      "17": [
+        "Doubravka",
+        "Nová Hospoda"
+      ],
+      "28": [
+        "CAN Husova",
+        "Papírna Bukovec"
+      ],
+      "N3": [
+        "Doubravka",
+        "Sídliště Košutka"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ]
+    }
+  },
+  {
+    "id": 73,
+    "name": "Generála Lišky",
+    "lines": [
+      "10",
+      "13",
+      "23",
+      "N2",
+      "N5"
+    ],
+    "directions": {
+      "10": [
+        "Tylova",
+        "Černice"
+      ],
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ],
+      "23": [
+        "Bory",
+        "Slovany"
+      ],
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 125,
+    "name": "Gigant",
+    "lines": [
+      "14",
+      "22"
+    ],
+    "directions": {
+      "14": [
+        "Pařížská",
+        "Sídliště Bory"
+      ],
+      "22": [
+        "Koterov",
+        "Malvíny"
+      ]
+    }
+  },
+  {
+    "id": 118,
+    "name": "Goethova",
+    "lines": [
+      "13",
+      "14",
+      "20",
+      "33",
+      "40"
+    ],
+    "directions": {
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ],
+      "14": [
+        "Pařížská"
+      ],
+      "20": [
+        "Mrakodrap"
+      ],
+      "33": [
+        "Goethova",
+        "Sídliště Košutka"
+      ],
+      "40": [
+        "Goethova",
+        "Sídliště Košutka"
+      ]
+    }
+  },
+  {
+    "id": 231,
+    "name": "Goldscheiderova",
+    "lines": [
+      "19",
+      "29",
+      "32"
+    ],
+    "directions": {
+      "19": [
+        "Nová Hospoda"
+      ],
+      "29": [
+        "Borská pole",
+        "Doubravka"
+      ],
+      "32": [
+        "NC Černice",
+        "Škoda VIII. brána"
+      ]
+    }
+  },
+  {
+    "id": 135,
+    "name": "Habrmannovo nám.",
+    "lines": [
+      "16",
+      "17",
+      "28",
+      "29",
+      "38",
+      "N3",
+      "N6"
+    ],
+    "directions": {
+      "16": [
+        "Doubravka",
+        "Sídliště Bory"
+      ],
+      "17": [
+        "Doubravka",
+        "Nová Hospoda"
+      ],
+      "28": [
+        "CAN Husova",
+        "Papírna Bukovec"
+      ],
+      "29": [
+        "Borská pole",
+        "Doubravka"
+      ],
+      "38": [
+        "Lobzy",
+        "Červený Hrádek"
+      ],
+      "N3": [
+        "Doubravka",
+        "Sídliště Košutka"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ]
+    }
+  },
+  {
+    "id": 168,
+    "name": "Hasičská stanice",
+    "lines": [
+      "22",
+      "51"
+    ],
+    "directions": {
+      "22": [
+        "Koterov",
+        "Malvíny"
+      ],
+      "51": [
+        "Slovany",
+        "Starý Plzenec, Vilová čtvrť"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "name": "Hlavní nádraží",
+    "lines": [
+      "1",
+      "2",
+      "11",
+      "15",
+      "16",
+      "17",
+      "N3",
+      "N6"
+    ],
+    "directions": {
+      "1": [
+        "Bolevec",
+        "Slovany"
+      ],
+      "2": [
+        "Sady Pětatřicátníků",
+        "Světovar"
+      ],
+      "11": [
+        "Křimice",
+        "Ústřední hřbitov"
+      ],
+      "15": [
+        "Lobzy",
+        "Nová Hospoda"
+      ],
+      "16": [
+        "Doubravka",
+        "Sídliště Bory"
+      ],
+      "17": [
+        "Doubravka",
+        "Nová Hospoda"
+      ],
+      "N3": [
+        "Doubravka",
+        "Sídliště Košutka"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "name": "Hlavní pošta",
+    "lines": [
+      "1",
+      "2",
+      "2A"
+    ],
+    "directions": {
+      "1": [
+        "Bolevec"
+      ],
+      "2": [
+        "Sady Pětatřicátníků"
+      ],
+      "2A": [
+        "Skvrňany"
+      ]
+    }
+  },
+  {
+    "id": 195,
+    "name": "Hodonínská",
+    "lines": [
+      "25",
+      "41",
+      "56",
+      "N1",
+      "N4"
+    ],
+    "directions": {
+      "25": [
+        "Bolevec",
+        "Bory"
+      ],
+      "41": [
+        "Křimice",
+        "Vinice"
+      ],
+      "56": [
+        "Město Touškov",
+        "Vinice"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 246,
+    "name": "Hokejová hala",
+    "lines": [
+      "24",
+      "30"
+    ],
+    "directions": {
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ]
+    }
+  },
+  {
+    "id": 295,
+    "name": "Hradiště",
+    "lines": [
+      "31"
+    ],
+    "directions": {
+      "31": [
+        "Hradiště",
+        "Slovany"
+      ]
+    }
+  },
+  {
+    "id": 225,
+    "name": "Husův park",
+    "lines": [
+      "28",
+      "30"
+    ],
+    "directions": {
+      "28": [
+        "CAN Husova",
+        "Papírna Bukovec"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ]
+    }
+  },
+  {
+    "id": 104,
+    "name": "Hřbitov Zátiší",
+    "lines": [
+      "12",
+      "43"
+    ],
+    "directions": {
+      "12": [
+        "Letkov, V Podlesí",
+        "Nová Hospoda"
+      ],
+      "43": [
+        "Zadní Skvrňany",
+        "Zátiší"
+      ]
+    }
+  },
+  {
+    "id": 79,
+    "name": "Hřbitovní",
+    "lines": [
+      "11"
+    ],
+    "directions": {
+      "11": [
+        "Křimice",
+        "Ústřední hřbitov"
+      ]
+    }
+  },
+  {
+    "id": 169,
+    "name": "Jasmínová",
+    "lines": [
+      "22"
+    ],
+    "directions": {
+      "22": [
+        "Koterov",
+        "Malvíny"
+      ]
+    }
+  },
+  {
+    "id": 146,
+    "name": "Jatky",
+    "lines": [
+      "28"
+    ],
+    "directions": {
+      "28": [
+        "CAN Husova",
+        "Papírna Bukovec"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "name": "Jedlová",
+    "lines": [
+      "1",
+      "N2",
+      "N5"
+    ],
+    "directions": {
+      "1": [
+        "Bolevec",
+        "Slovany"
+      ],
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 55,
+    "name": "Jižní Předměstí",
+    "lines": [
+      "10",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "22",
+      "N7"
+    ],
+    "directions": {
+      "10": [
+        "Tylova"
+      ],
+      "15": [
+        "Lobzy",
+        "Nová Hospoda"
+      ],
+      "16": [
+        "Doubravka",
+        "Sídliště Bory"
+      ],
+      "17": [
+        "Doubravka",
+        "Nová Hospoda"
+      ],
+      "18": [
+        "Borská pole",
+        "CAN Husova"
+      ],
+      "19": [
+        "Karlov",
+        "Nová Hospoda"
+      ],
+      "22": [
+        "Koterov",
+        "Malvíny"
+      ],
+      "N7": [
+        "Mrakodrap",
+        "Nová Hospoda"
+      ]
+    }
+  },
+  {
+    "id": 92,
+    "name": "K Bukové",
+    "lines": [
+      "12"
+    ],
+    "directions": {
+      "12": [
+        "Letkov, V Podlesí",
+        "Nová Hospoda"
+      ]
+    }
+  },
+  {
+    "id": 167,
+    "name": "K Dráze",
+    "lines": [
+      "22",
+      "51"
+    ],
+    "directions": {
+      "22": [
+        "Koterov",
+        "Malvíny"
+      ],
+      "51": [
+        "Slovany",
+        "Starý Plzenec, Vilová čtvrť"
+      ]
+    }
+  },
+  {
+    "id": 119,
+    "name": "K Losiné",
+    "lines": [
+      "13"
+    ],
+    "directions": {
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ]
+    }
+  },
+  {
+    "id": 200,
+    "name": "K Nemocnici",
+    "lines": [
+      "25",
+      "33"
+    ],
+    "directions": {
+      "25": [
+        "Bolevec",
+        "Bory"
+      ],
+      "33": [
+        "Goethova",
+        "Sídliště Košutka"
+      ]
+    }
+  },
+  {
+    "id": 74,
+    "name": "K Plzenci",
+    "lines": [
+      "10",
+      "13",
+      "23",
+      "32",
+      "N2",
+      "N5"
+    ],
+    "directions": {
+      "10": [
+        "Tylova",
+        "Černice"
+      ],
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ],
+      "23": [
+        "Bory",
+        "Slovany"
+      ],
+      "32": [
+        "NC Černice",
+        "Škoda VIII. brána"
+      ],
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 242,
+    "name": "K Prokopávce",
+    "lines": [
+      "30"
+    ],
+    "directions": {
+      "30": [
+        "Sídliště Košutka"
+      ]
+    }
+  },
+  {
+    "id": 120,
+    "name": "K Radyni",
+    "lines": [
+      "13"
+    ],
+    "directions": {
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ]
+    }
+  },
+  {
+    "id": 267,
+    "name": "K Rozvodně",
+    "lines": [
+      "24",
+      "25",
+      "37",
+      "41",
+      "56",
+      "N5"
+    ],
+    "directions": {
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "25": [
+        "Bolevec",
+        "Bory"
+      ],
+      "37": [
+        "Křimice",
+        "Macháčkova"
+      ],
+      "41": [
+        "Křimice",
+        "Vinice"
+      ],
+      "56": [
+        "Město Touškov",
+        "Vinice"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 321,
+    "name": "K Řečišti",
+    "lines": [
+      "31"
+    ],
+    "directions": {
+      "31": [
+        "Hradiště",
+        "Slovany"
+      ]
+    }
+  },
+  {
+    "id": 272,
+    "name": "Kalendářní",
+    "lines": [
+      "39"
+    ],
+    "directions": {
+      "39": [
+        "Kalendářní",
+        "Tyršův most"
+      ]
+    }
+  },
+  {
+    "id": 254,
+    "name": "Kalikova",
+    "lines": [
+      "11"
+    ],
+    "directions": {
+      "11": [
+        "Křimice",
+        "Ústřední hřbitov"
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "name": "Karla Steinera",
+    "lines": [
+      "2A"
+    ],
+    "directions": {
+      "2A": [
+        "Náměstí Republiky",
+        "Skvrňany"
+      ]
+    }
+  },
+  {
+    "id": 132,
+    "name": "Karlov",
+    "lines": [
+      "15",
+      "17",
+      "18",
+      "19",
+      "22",
+      "N7"
+    ],
+    "directions": {
+      "15": [
+        "Lobzy",
+        "Nová Hospoda"
+      ],
+      "17": [
+        "Doubravka",
+        "Nová Hospoda"
+      ],
+      "18": [
+        "Borská pole",
+        "CAN Husova"
+      ],
+      "19": [
+        "Karlov",
+        "Nová Hospoda"
+      ],
+      "22": [
+        "Koterov",
+        "Malvíny"
+      ],
+      "N7": [
+        "Mrakodrap",
+        "Nová Hospoda"
+      ]
+    }
+  },
+  {
+    "id": 106,
+    "name": "Ke Karlovu",
+    "lines": [
+      "15",
+      "17",
+      "18",
+      "22",
+      "32",
+      "N7"
+    ],
+    "directions": {
+      "15": [
+        "Lobzy",
+        "Nová Hospoda"
+      ],
+      "17": [
+        "Doubravka",
+        "Nová Hospoda"
+      ],
+      "18": [
+        "Borská pole",
+        "CAN Husova"
+      ],
+      "22": [
+        "Koterov",
+        "Malvíny"
+      ],
+      "32": [
+        "NC Černice",
+        "Škoda VIII. brána"
+      ],
+      "N7": [
+        "Mrakodrap",
+        "Nová Hospoda"
+      ]
+    }
+  },
+  {
+    "id": 333,
+    "name": "Ke Kovářce",
+    "lines": [
+      "24",
+      "25"
+    ],
+    "directions": {
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "25": [
+        "Bolevec",
+        "Bory"
+      ]
+    }
+  },
+  {
+    "id": 114,
+    "name": "Ke Kukačce",
+    "lines": [
+      "13"
+    ],
+    "directions": {
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ]
+    }
+  },
+  {
+    "id": 113,
+    "name": "Ke Špitálskému lesu",
+    "lines": [
+      "13",
+      "38"
+    ],
+    "directions": {
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ],
+      "38": [
+        "Lobzy"
+      ]
+    }
+  },
+  {
+    "id": 243,
+    "name": "Komenského",
+    "lines": [
+      "24",
+      "30"
+    ],
+    "directions": {
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ]
+    }
+  },
+  {
+    "id": 183,
+    "name": "Konvalinková",
+    "lines": [
+      "23",
+      "32"
+    ],
+    "directions": {
+      "23": [
+        "Bory"
+      ],
+      "32": [
+        "Škoda VIII. brána"
+      ]
+    }
+  },
+  {
+    "id": 164,
+    "name": "Koterov",
+    "lines": [
+      "22",
+      "51"
+    ],
+    "directions": {
+      "22": [
+        "Koterov",
+        "Malvíny"
+      ],
+      "51": [
+        "Slovany",
+        "Starý Plzenec, Vilová čtvrť"
+      ]
+    }
+  },
+  {
+    "id": 147,
+    "name": "Kovošrot",
+    "lines": [
+      "30"
+    ],
+    "directions": {
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ]
+    }
+  },
+  {
+    "id": 293,
+    "name": "Kozolupy, I",
+    "lines": [
+      "56"
+    ],
+    "directions": {
+      "56": [
+        "Město Touškov",
+        "Vinice"
+      ]
+    }
+  },
+  {
+    "id": 292,
+    "name": "Kozolupy, u Jána",
+    "lines": [
+      "56"
+    ],
+    "directions": {
+      "56": [
+        "Město Touškov",
+        "Vinice"
+      ]
+    }
+  },
+  {
+    "id": 53,
+    "name": "Košutka",
+    "lines": [
+      "4",
+      "N3",
+      "N6"
+    ],
+    "directions": {
+      "4": [
+        "Košutka",
+        "Univerzita"
+      ],
+      "N3": [
+        "Doubravka",
+        "Sídliště Košutka"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ]
+    }
+  },
+  {
+    "id": 245,
+    "name": "Krašovská",
+    "lines": [
+      "24",
+      "30",
+      "33",
+      "40",
+      "N3",
+      "N6"
+    ],
+    "directions": {
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ],
+      "33": [
+        "Goethova",
+        "Sídliště Košutka"
+      ],
+      "40": [
+        "Goethova",
+        "Sídliště Košutka"
+      ],
+      "N3": [
+        "Doubravka",
+        "Sídliště Košutka"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ]
+    }
+  },
+  {
+    "id": 180,
+    "name": "Kruhová",
+    "lines": [
+      "23",
+      "32"
+    ],
+    "directions": {
+      "23": [
+        "Bory",
+        "Slovany"
+      ],
+      "32": [
+        "NC Černice",
+        "Škoda VIII. brána"
+      ]
+    }
+  },
+  {
+    "id": 296,
+    "name": "Kyšice",
+    "lines": [
+      "N11"
+    ],
+    "directions": {
+      "N11": [
+        "Bušovice, Sedlecko"
+      ]
+    }
+  },
+  {
+    "id": 262,
+    "name": "Křimice",
+    "lines": [
+      "11",
+      "37",
+      "41"
+    ],
+    "directions": {
+      "11": [
+        "Křimice",
+        "Ústřední hřbitov"
+      ],
+      "37": [
+        "Křimice"
+      ],
+      "41": [
+        "Křimice",
+        "Vinice"
+      ]
+    }
+  },
+  {
+    "id": 207,
+    "name": "Lašitov",
+    "lines": [
+      "26",
+      "42"
+    ],
+    "directions": {
+      "26": [
+        "U Luny"
+      ],
+      "42": [
+        "U Luny"
+      ]
+    }
+  },
+  {
+    "id": 91,
+    "name": "Letkov",
+    "lines": [
+      "N11"
+    ],
+    "directions": {
+      "N11": [
+        "Bušovice, Sedlecko"
+      ]
+    }
+  },
+  {
+    "id": 88,
+    "name": "Letkov, V Podlesí",
+    "lines": [
+      "12"
+    ],
+    "directions": {
+      "12": [
+        "Letkov, V Podlesí",
+        "Nová Hospoda"
+      ]
+    }
+  },
+  {
+    "id": 81,
+    "name": "Letná",
+    "lines": [
+      "11",
+      "15",
+      "29",
+      "30",
+      "N3",
+      "N6"
+    ],
+    "directions": {
+      "11": [
+        "Křimice",
+        "Ústřední hřbitov"
+      ],
+      "15": [
+        "Lobzy",
+        "Nová Hospoda"
+      ],
+      "29": [
+        "Borská pole",
+        "Doubravka"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ],
+      "N3": [
+        "Doubravka",
+        "Sídliště Košutka"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ]
+    }
+  },
+  {
+    "id": 332,
+    "name": "Lhota",
+    "lines": [
+      "26",
+      "42"
+    ],
+    "directions": {
+      "26": [
+        "Nová Ves",
+        "U Luny"
+      ],
+      "42": [
+        "Lhota",
+        "U Luny"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Liliová",
+    "lines": [
+      "1",
+      "N2",
+      "N5"
+    ],
+    "directions": {
+      "1": [
+        "Bolevec",
+        "Slovany"
+      ],
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 163,
+    "name": "Litice",
+    "lines": [
+      "21"
+    ],
+    "directions": {
+      "21": [
+        "Bory",
+        "Litice"
+      ]
+    }
+  },
+  {
+    "id": 129,
+    "name": "Lobzy",
+    "lines": [
+      "15",
+      "38",
+      "N3",
+      "N6"
+    ],
+    "directions": {
+      "15": [
+        "Lobzy",
+        "Nová Hospoda"
+      ],
+      "38": [
+        "Lobzy",
+        "Červený Hrádek"
+      ],
+      "N3": [
+        "Doubravka",
+        "Sídliště Košutka"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ]
+    }
+  },
+  {
+    "id": 198,
+    "name": "Lochotínský pavilón",
+    "lines": [
+      "25",
+      "N1",
+      "N4"
+    ],
+    "directions": {
+      "25": [
+        "Bory"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ],
+      "N4": [
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 191,
+    "name": "Lábkova",
+    "lines": [
+      "24",
+      "25",
+      "37",
+      "43",
+      "2A",
+      "N2",
+      "N5"
+    ],
+    "directions": {
+      "2A": [
+        "Skvrňany"
+      ],
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "25": [
+        "Bolevec",
+        "Bory"
+      ],
+      "37": [
+        "Křimice",
+        "Macháčkova"
+      ],
+      "43": [
+        "Zadní Skvrňany",
+        "Zátiší"
+      ],
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "name": "Lékařská fakulta",
+    "lines": [
+      "1",
+      "25",
+      "33",
+      "34",
+      "40"
+    ],
+    "directions": {
+      "1": [
+        "Bolevec",
+        "Slovany"
+      ],
+      "25": [
+        "Bolevec"
+      ],
+      "33": [
+        "Goethova",
+        "Sídliště Košutka"
+      ],
+      "34": [
+        "Pařížská",
+        "Třemošná, ves"
+      ],
+      "40": [
+        "Goethova",
+        "Sídliště Košutka"
+      ]
+    }
+  },
+  {
+    "id": 307,
+    "name": "Líně",
+    "lines": [
+      "N12"
+    ],
+    "directions": {
+      "N12": [
+        "NC Borská pole",
+        "Stod"
+      ]
+    }
+  },
+  {
+    "id": 306,
+    "name": "Líně, Sulkov",
+    "lines": [
+      "N12"
+    ],
+    "directions": {
+      "N12": [
+        "NC Borská pole",
+        "Stod"
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "name": "Macháčkova",
+    "lines": [
+      "24",
+      "25",
+      "37",
+      "43",
+      "2A",
+      "N2",
+      "N5"
+    ],
+    "directions": {
+      "2A": [
+        "Náměstí Republiky",
+        "Skvrňany"
+      ],
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "25": [
+        "Bolevec",
+        "Bory"
+      ],
+      "37": [
+        "Křimice",
+        "Macháčkova"
+      ],
+      "43": [
+        "Zadní Skvrňany",
+        "Zátiší"
+      ],
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "name": "Majakovského",
+    "lines": [
+      "1",
+      "25",
+      "N1",
+      "N4"
+    ],
+    "directions": {
+      "1": [
+        "Bolevec",
+        "Slovany"
+      ],
+      "25": [
+        "Bolevec",
+        "Bory"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 260,
+    "name": "Malesice",
+    "lines": [
+      "11",
+      "35",
+      "37",
+      "N5"
+    ],
+    "directions": {
+      "11": [
+        "Křimice",
+        "Ústřední hřbitov"
+      ],
+      "35": [
+        "Dolní Vlkýš",
+        "Radčice"
+      ],
+      "37": [
+        "Macháčkova"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "name": "Malesická",
+    "lines": [
+      "2A",
+      "N2",
+      "N5"
+    ],
+    "directions": {
+      "2A": [
+        "Náměstí Republiky",
+        "Skvrňany"
+      ],
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 143,
+    "name": "Malická",
+    "lines": [
+      "20"
+    ],
+    "directions": {
+      "20": [
+        "Mrakodrap",
+        "Zruč - Senec"
+      ]
+    }
+  },
+  {
+    "id": 347,
+    "name": "Malvíny",
+    "lines": [
+      "22"
+    ],
+    "directions": {
+      "22": [
+        "Koterov",
+        "Malvíny"
+      ]
+    }
+  },
+  {
+    "id": 241,
+    "name": "Malý Bolevec",
+    "lines": [
+      "30",
+      "N4"
+    ],
+    "directions": {
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 45,
+    "name": "Masarykovo náměstí",
+    "lines": [
+      "4",
+      "N1",
+      "N4"
+    ],
+    "directions": {
+      "4": [
+        "Košutka",
+        "Univerzita"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 166,
+    "name": "Mezi Ploty",
+    "lines": [
+      "22",
+      "51"
+    ],
+    "directions": {
+      "22": [
+        "Koterov"
+      ],
+      "51": [
+        "Starý Plzenec, Vilová čtvrť"
+      ]
+    }
+  },
+  {
+    "id": 99,
+    "name": "Mikulášská",
+    "lines": [
+      "12"
+    ],
+    "directions": {
+      "12": [
+        "Letkov, V Podlesí",
+        "Nová Hospoda"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "name": "Mikulášské náměstí",
+    "lines": [
+      "1",
+      "2",
+      "N2",
+      "N5"
+    ],
+    "directions": {
+      "1": [
+        "Bolevec",
+        "Slovany"
+      ],
+      "2": [
+        "Sady Pětatřicátníků",
+        "Světovar"
+      ],
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 239,
+    "name": "Mlýnské nábřeží",
+    "lines": [
+      "22",
+      "30"
+    ],
+    "directions": {
+      "22": [
+        "Koterov",
+        "Malvíny"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ]
+    }
+  },
+  {
+    "id": 266,
+    "name": "Morseova",
+    "lines": [
+      "19",
+      "25"
+    ],
+    "directions": {
+      "19": [
+        "Karlov"
+      ],
+      "25": [
+        "Bory"
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "name": "Mozartova",
+    "lines": [
+      "1"
+    ],
+    "directions": {
+      "1": [
+        "Bolevec",
+        "Slovany"
+      ]
+    }
+  },
+  {
+    "id": 60,
+    "name": "Mrakodrap",
+    "lines": [
+      "10",
+      "11",
+      "12",
+      "15",
+      "16",
+      "17",
+      "20",
+      "27",
+      "34",
+      "N1",
+      "N11",
+      "N12",
+      "N2",
+      "N3",
+      "N4",
+      "N5",
+      "N6",
+      "N7"
+    ],
+    "directions": {
+      "10": [
+        "Černice"
+      ],
+      "11": [
+        "Křimice",
+        "Ústřední hřbitov"
+      ],
+      "12": [
+        "Letkov, V Podlesí",
+        "Nová Hospoda"
+      ],
+      "15": [
+        "Lobzy",
+        "Nová Hospoda"
+      ],
+      "16": [
+        "Doubravka",
+        "Sídliště Bory"
+      ],
+      "17": [
+        "Doubravka",
+        "Nová Hospoda"
+      ],
+      "20": [
+        "Mrakodrap",
+        "Zruč - Senec"
+      ],
+      "27": [
+        "Mrakodrap",
+        "Sídliště Košutka"
+      ],
+      "34": [
+        "Pařížská",
+        "Třemošná, ves"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ],
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N3": [
+        "Doubravka",
+        "Sídliště Košutka"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ],
+      "N7": [
+        "Mrakodrap",
+        "Nová Hospoda"
+      ],
+      "N11": [
+        "Bušovice, Sedlecko",
+        "Mrakodrap"
+      ],
+      "N12": [
+        "Stod"
+      ]
+    }
+  },
+  {
+    "id": 294,
+    "name": "Město Touškov",
+    "lines": [
+      "56"
+    ],
+    "directions": {
+      "56": [
+        "Město Touškov",
+        "Vinice"
+      ]
+    }
+  },
+  {
+    "id": 107,
+    "name": "NC Borská pole",
+    "lines": [
+      "15",
+      "17",
+      "18",
+      "19",
+      "22",
+      "29",
+      "N12",
+      "N7"
+    ],
+    "directions": {
+      "15": [
+        "Lobzy",
+        "Nová Hospoda"
+      ],
+      "17": [
+        "Doubravka",
+        "Nová Hospoda"
+      ],
+      "18": [
+        "Borská pole",
+        "CAN Husova"
+      ],
+      "19": [
+        "Nová Hospoda"
+      ],
+      "22": [
+        "Koterov",
+        "Malvíny"
+      ],
+      "29": [
+        "Borská pole",
+        "Doubravka"
+      ],
+      "N7": [
+        "Mrakodrap",
+        "Nová Hospoda"
+      ],
+      "N12": [
+        "NC Borská pole"
+      ]
+    }
+  },
+  {
+    "id": 216,
+    "name": "NC Úněšovská",
+    "lines": [
+      "27",
+      "30"
+    ],
+    "directions": {
+      "27": [
+        "Mrakodrap",
+        "Sídliště Košutka"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ]
+    }
+  },
+  {
+    "id": 121,
+    "name": "NC Černice",
+    "lines": [
+      "13",
+      "32",
+      "50"
+    ],
+    "directions": {
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ],
+      "32": [
+        "NC Černice",
+        "Škoda VIII. brána"
+      ],
+      "50": [
+        "NC Černice",
+        "Starý Plzenec, Vilová čtvrť"
+      ]
+    }
+  },
+  {
+    "id": 112,
+    "name": "Na Dlouhých",
+    "lines": [
+      "13"
+    ],
+    "directions": {
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ]
+    }
+  },
+  {
+    "id": 270,
+    "name": "Na Rozcestí",
+    "lines": [
+      "38",
+      "N6"
+    ],
+    "directions": {
+      "38": [
+        "Lobzy",
+        "Červený Hrádek"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ]
+    }
+  },
+  {
+    "id": 274,
+    "name": "Na Rozhraní",
+    "lines": [
+      "39"
+    ],
+    "directions": {
+      "39": [
+        "Kalendářní",
+        "Tyršův most"
+      ]
+    }
+  },
+  {
+    "id": 227,
+    "name": "Na Rychtářce",
+    "lines": [
+      "28"
+    ],
+    "directions": {
+      "28": [
+        "CAN Husova",
+        "Papírna Bukovec"
+      ]
+    }
+  },
+  {
+    "id": 94,
+    "name": "Na Spojce",
+    "lines": [
+      "12"
+    ],
+    "directions": {
+      "12": [
+        "Letkov, V Podlesí",
+        "Nová Hospoda"
+      ]
+    }
+  },
+  {
+    "id": 179,
+    "name": "Nad Úhlavou",
+    "lines": [
+      "23",
+      "32"
+    ],
+    "directions": {
+      "23": [
+        "Bory",
+        "Slovany"
+      ],
+      "32": [
+        "NC Černice",
+        "Škoda VIII. brána"
+      ]
+    }
+  },
+  {
+    "id": 139,
+    "name": "Nemocnice Bory",
+    "lines": [
+      "16",
+      "19",
+      "22",
+      "N1",
+      "N4"
+    ],
+    "directions": {
+      "16": [
+        "Doubravka",
+        "Sídliště Bory"
+      ],
+      "19": [
+        "Karlov",
+        "Nová Hospoda"
+      ],
+      "22": [
+        "Koterov",
+        "Malvíny"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 201,
+    "name": "Nemocnice Lochotín",
+    "lines": [
+      "25",
+      "33",
+      "34"
+    ],
+    "directions": {
+      "25": [
+        "Bolevec",
+        "Bory"
+      ],
+      "33": [
+        "Goethova",
+        "Sídliště Košutka"
+      ],
+      "34": [
+        "Pařížská",
+        "Třemošná, ves"
+      ]
+    }
+  },
+  {
+    "id": 213,
+    "name": "Nemocnice Privamed",
+    "lines": [
+      "27"
+    ],
+    "directions": {
+      "27": [
+        "Mrakodrap",
+        "Sídliště Košutka"
+      ]
+    }
+  },
+  {
+    "id": 111,
+    "name": "Nová Hospoda",
+    "lines": [
+      "12",
+      "15",
+      "17",
+      "19",
+      "43",
+      "N7"
+    ],
+    "directions": {
+      "12": [
+        "Letkov, V Podlesí",
+        "Nová Hospoda"
+      ],
+      "15": [
+        "Lobzy",
+        "Nová Hospoda"
+      ],
+      "17": [
+        "Doubravka",
+        "Nová Hospoda"
+      ],
+      "19": [
+        "Karlov",
+        "Nová Hospoda"
+      ],
+      "43": [
+        "Zadní Skvrňany",
+        "Zátiší"
+      ],
+      "N7": [
+        "Mrakodrap",
+        "Nová Hospoda"
+      ]
+    }
+  },
+  {
+    "id": 346,
+    "name": "Nová Hospoda rondel",
+    "lines": [
+      "12",
+      "15",
+      "17",
+      "19",
+      "43",
+      "N7"
+    ],
+    "directions": {
+      "12": [
+        "Nová Hospoda"
+      ],
+      "15": [
+        "Nová Hospoda"
+      ],
+      "17": [
+        "Nová Hospoda"
+      ],
+      "19": [
+        "Nová Hospoda"
+      ],
+      "43": [
+        "Zadní Skvrňany"
+      ],
+      "N7": [
+        "Nová Hospoda"
+      ]
+    }
+  },
+  {
+    "id": 211,
+    "name": "Nová Ves",
+    "lines": [
+      "26"
+    ],
+    "directions": {
+      "26": [
+        "Nová Ves",
+        "U Luny"
+      ]
+    }
+  },
+  {
+    "id": 210,
+    "name": "Nová Ves, u lesa",
+    "lines": [
+      "26"
+    ],
+    "directions": {
+      "26": [
+        "Nová Ves",
+        "U Luny"
+      ]
+    }
+  },
+  {
+    "id": 149,
+    "name": "Nádraží Bílá Hora",
+    "lines": [
+      "20",
+      "30",
+      "58"
+    ],
+    "directions": {
+      "20": [
+        "Mrakodrap",
+        "Zruč - Senec"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ],
+      "58": [
+        "Nádraží Bílá Hora",
+        "Okounová"
+      ]
+    }
+  },
+  {
+    "id": 101,
+    "name": "Nádraží Skvrňany",
+    "lines": [
+      "12"
+    ],
+    "directions": {
+      "12": [
+        "Letkov, V Podlesí",
+        "Nová Hospoda"
+      ]
+    }
+  },
+  {
+    "id": 96,
+    "name": "Nádraží Slovany",
+    "lines": [
+      "12",
+      "29",
+      "30"
+    ],
+    "directions": {
+      "12": [
+        "Letkov, V Podlesí",
+        "Nová Hospoda"
+      ],
+      "29": [
+        "Borská pole",
+        "Doubravka"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ]
+    }
+  },
+  {
+    "id": 203,
+    "name": "Nádraží Valcha",
+    "lines": [
+      "26",
+      "42"
+    ],
+    "directions": {
+      "26": [
+        "Nová Ves",
+        "U Luny"
+      ],
+      "42": [
+        "Lhota",
+        "U Luny"
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "name": "Nám. Generála Píky",
+    "lines": [
+      "2"
+    ],
+    "directions": {
+      "2": [
+        "Sady Pětatřicátníků",
+        "Světovar"
+      ]
+    }
+  },
+  {
+    "id": 138,
+    "name": "Nám. Českých bratří",
+    "lines": [
+      "16",
+      "19",
+      "22"
+    ],
+    "directions": {
+      "16": [
+        "Doubravka"
+      ],
+      "19": [
+        "Karlov"
+      ],
+      "22": [
+        "Malvíny"
+      ]
+    }
+  },
+  {
+    "id": 223,
+    "name": "Náměstí Karla Panušky",
+    "lines": [
+      "28",
+      "N6"
+    ],
+    "directions": {
+      "28": [
+        "CAN Husova",
+        "Papírna Bukovec"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ]
+    }
+  },
+  {
+    "id": 42,
+    "name": "Náměstí Míru",
+    "lines": [
+      "4",
+      "29"
+    ],
+    "directions": {
+      "4": [
+        "Košutka",
+        "Univerzita"
+      ],
+      "29": [
+        "Borská pole"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "name": "Náměstí Republiky",
+    "lines": [
+      "1",
+      "2",
+      "20",
+      "33",
+      "40",
+      "2A",
+      "N1",
+      "N4"
+    ],
+    "directions": {
+      "1": [
+        "Bolevec",
+        "Slovany"
+      ],
+      "2": [
+        "Sady Pětatřicátníků",
+        "Světovar"
+      ],
+      "2A": [
+        "Náměstí Republiky",
+        "Skvrňany"
+      ],
+      "20": [
+        "Mrakodrap"
+      ],
+      "33": [
+        "Goethova",
+        "Sídliště Košutka"
+      ],
+      "40": [
+        "Goethova",
+        "Sídliště Košutka"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 209,
+    "name": "Náves Lhota",
+    "lines": [
+      "26",
+      "42",
+      "N4"
+    ],
+    "directions": {
+      "26": [
+        "Nová Ves",
+        "U Luny"
+      ],
+      "42": [
+        "Lhota",
+        "U Luny"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 162,
+    "name": "Náves Litice",
+    "lines": [
+      "21",
+      "36",
+      "N4"
+    ],
+    "directions": {
+      "21": [
+        "Bory",
+        "Litice"
+      ],
+      "36": [
+        "Bory",
+        "Sídliště Litice"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 257,
+    "name": "Náves Radčice",
+    "lines": [
+      "11",
+      "24",
+      "25"
+    ],
+    "directions": {
+      "11": [
+        "Křimice",
+        "Ústřední hřbitov"
+      ],
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "25": [
+        "Bolevec",
+        "Bory"
+      ]
+    }
+  },
+  {
+    "id": 229,
+    "name": "Obchodní",
+    "lines": [
+      "25",
+      "29"
+    ],
+    "directions": {
+      "25": [
+        "Bolevec",
+        "Bory"
+      ],
+      "29": [
+        "Borská pole",
+        "Doubravka"
+      ]
+    }
+  },
+  {
+    "id": 230,
+    "name": "Obchodní rondel",
+    "lines": [
+      "25",
+      "29"
+    ],
+    "directions": {
+      "25": [
+        "Bolevec",
+        "Bory"
+      ],
+      "29": [
+        "Borská pole",
+        "Doubravka"
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "name": "Okounová",
+    "lines": [
+      "1",
+      "24",
+      "25",
+      "30",
+      "34",
+      "58",
+      "N1",
+      "N4"
+    ],
+    "directions": {
+      "1": [
+        "Bolevec",
+        "Slovany"
+      ],
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "25": [
+        "Bolevec",
+        "Bory"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ],
+      "34": [
+        "Pařížská",
+        "Třemošná, ves"
+      ],
+      "58": [
+        "Nádraží Bílá Hora",
+        "Okounová"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Olšová",
+    "lines": [
+      "1"
+    ],
+    "directions": {
+      "1": [
+        "Bolevec",
+        "Slovany"
+      ]
+    }
+  },
+  {
+    "id": 137,
+    "name": "Opavská",
+    "lines": [
+      "16",
+      "17",
+      "29",
+      "30",
+      "38",
+      "N3",
+      "N6"
+    ],
+    "directions": {
+      "16": [
+        "Doubravka",
+        "Sídliště Bory"
+      ],
+      "17": [
+        "Doubravka",
+        "Nová Hospoda"
+      ],
+      "29": [
+        "Borská pole",
+        "Doubravka"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ],
+      "38": [
+        "Lobzy",
+        "Červený Hrádek"
+      ],
+      "N3": [
+        "Doubravka",
+        "Sídliště Košutka"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ]
+    }
+  },
+  {
+    "id": 250,
+    "name": "Orlík",
+    "lines": [
+      "34"
+    ],
+    "directions": {
+      "34": [
+        "Pařížská",
+        "Třemošná, ves"
+      ]
+    }
+  },
+  {
+    "id": 144,
+    "name": "Otýlie Beníškové",
+    "lines": [
+      "20",
+      "33",
+      "40",
+      "N1",
+      "N4"
+    ],
+    "directions": {
+      "20": [
+        "Mrakodrap"
+      ],
+      "33": [
+        "Goethova",
+        "Sídliště Košutka"
+      ],
+      "40": [
+        "Goethova",
+        "Sídliště Košutka"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "name": "Palackého náměstí",
+    "lines": [
+      "2A"
+    ],
+    "directions": {
+      "2A": [
+        "Náměstí Republiky",
+        "Skvrňany"
+      ]
+    }
+  },
+  {
+    "id": 248,
+    "name": "Pampelišková",
+    "lines": [
+      "32"
+    ],
+    "directions": {
+      "32": [
+        "NC Černice",
+        "Škoda VIII. brána"
+      ]
+    }
+  },
+  {
+    "id": 188,
+    "name": "Panasonic",
+    "lines": [
+      "24",
+      "30",
+      "N1"
+    ],
+    "directions": {
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ],
+      "N1": [
+        "Panasonic"
+      ]
+    }
+  },
+  {
+    "id": 102,
+    "name": "Panelárna",
+    "lines": [
+      "12"
+    ],
+    "directions": {
+      "12": [
+        "Letkov, V Podlesí",
+        "Nová Hospoda"
+      ]
+    }
+  },
+  {
+    "id": 218,
+    "name": "Papírna Bukovec",
+    "lines": [
+      "28"
+    ],
+    "directions": {
+      "28": [
+        "CAN Husova",
+        "Papírna Bukovec"
+      ]
+    }
+  },
+  {
+    "id": 85,
+    "name": "Pařížská",
+    "lines": [
+      "11",
+      "12",
+      "14",
+      "15",
+      "16",
+      "17",
+      "34",
+      "N2",
+      "N3",
+      "N5",
+      "N6"
+    ],
+    "directions": {
+      "11": [
+        "Křimice",
+        "Ústřední hřbitov"
+      ],
+      "12": [
+        "Letkov, V Podlesí",
+        "Nová Hospoda"
+      ],
+      "14": [
+        "Pařížská",
+        "Sídliště Bory"
+      ],
+      "15": [
+        "Lobzy",
+        "Nová Hospoda"
+      ],
+      "16": [
+        "Doubravka",
+        "Sídliště Bory"
+      ],
+      "17": [
+        "Doubravka",
+        "Nová Hospoda"
+      ],
+      "34": [
+        "Pařížská",
+        "Třemošná, ves"
+      ],
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N3": [
+        "Doubravka",
+        "Sídliště Košutka"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ]
+    }
+  },
+  {
+    "id": 170,
+    "name": "Pekárna",
+    "lines": [
+      "22",
+      "51"
+    ],
+    "directions": {
+      "22": [
+        "Koterov",
+        "Malvíny"
+      ],
+      "51": [
+        "Slovany",
+        "Starý Plzenec, Vilová čtvrť"
+      ]
+    }
+  },
+  {
+    "id": 98,
+    "name": "Petrohrad",
+    "lines": [
+      "12"
+    ],
+    "directions": {
+      "12": [
+        "Letkov, V Podlesí",
+        "Nová Hospoda"
+      ]
+    }
+  },
+  {
+    "id": 95,
+    "name": "Petřínská",
+    "lines": [
+      "12"
+    ],
+    "directions": {
+      "12": [
+        "Letkov, V Podlesí",
+        "Nová Hospoda"
+      ]
+    }
+  },
+  {
+    "id": 80,
+    "name": "Pietas",
+    "lines": [
+      "11"
+    ],
+    "directions": {
+      "11": [
+        "Křimice",
+        "Ústřední hřbitov"
+      ]
+    }
+  },
+  {
+    "id": 263,
+    "name": "Plochá dráha",
+    "lines": [
+      "19",
+      "25"
+    ],
+    "directions": {
+      "19": [
+        "Karlov"
+      ],
+      "25": [
+        "Bolevec",
+        "Bory"
+      ]
+    }
+  },
+  {
+    "id": 52,
+    "name": "Plzeňka",
+    "lines": [
+      "4"
+    ],
+    "directions": {
+      "4": [
+        "Košutka",
+        "Univerzita"
+      ]
+    }
+  },
+  {
+    "id": 208,
+    "name": "Pod Dubovkou",
+    "lines": [
+      "26",
+      "42"
+    ],
+    "directions": {
+      "26": [
+        "Nová Ves",
+        "U Luny"
+      ],
+      "42": [
+        "Lhota",
+        "U Luny"
+      ]
+    }
+  },
+  {
+    "id": 259,
+    "name": "Pod Kyjovem",
+    "lines": [
+      "11",
+      "24",
+      "25"
+    ],
+    "directions": {
+      "11": [
+        "Křimice",
+        "Ústřední hřbitov"
+      ],
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "25": [
+        "Bolevec",
+        "Bory"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "name": "Pod Záhorskem",
+    "lines": [
+      "1",
+      "4"
+    ],
+    "directions": {
+      "1": [
+        "Bolevec",
+        "Slovany"
+      ],
+      "4": [
+        "Košutka",
+        "Univerzita"
+      ]
+    }
+  },
+  {
+    "id": 256,
+    "name": "Pod Zámečkem",
+    "lines": [
+      "11"
+    ],
+    "directions": {
+      "11": [
+        "Křimice",
+        "Ústřední hřbitov"
+      ]
+    }
+  },
+  {
+    "id": 181,
+    "name": "Podhájí",
+    "lines": [
+      "23",
+      "32"
+    ],
+    "directions": {
+      "23": [
+        "Bory",
+        "Slovany"
+      ],
+      "32": [
+        "NC Černice",
+        "Škoda VIII. brána"
+      ]
+    }
+  },
+  {
+    "id": 233,
+    "name": "Poliklinika Bory",
+    "lines": [
+      "29"
+    ],
+    "directions": {
+      "29": [
+        "Borská pole",
+        "Doubravka"
+      ]
+    }
+  },
+  {
+    "id": 136,
+    "name": "Poliklinika Doubravka",
+    "lines": [
+      "16",
+      "17",
+      "28",
+      "29",
+      "30",
+      "38",
+      "N3",
+      "N6"
+    ],
+    "directions": {
+      "16": [
+        "Doubravka",
+        "Sídliště Bory"
+      ],
+      "17": [
+        "Doubravka",
+        "Nová Hospoda"
+      ],
+      "28": [
+        "CAN Husova",
+        "Papírna Bukovec"
+      ],
+      "29": [
+        "Borská pole",
+        "Doubravka"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ],
+      "38": [
+        "Lobzy",
+        "Červený Hrádek"
+      ],
+      "N3": [
+        "Doubravka",
+        "Sídliště Košutka"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ]
+    }
+  },
+  {
+    "id": 235,
+    "name": "Poliklinika Slovany",
+    "lines": [
+      "29",
+      "30"
+    ],
+    "directions": {
+      "29": [
+        "Borská pole",
+        "Doubravka"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ]
+    }
+  },
+  {
+    "id": 234,
+    "name": "Pošta Francouzská",
+    "lines": [
+      "29",
+      "30"
+    ],
+    "directions": {
+      "29": [
+        "Borská pole",
+        "Doubravka"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ]
+    }
+  },
+  {
+    "id": 277,
+    "name": "Pošta logistika",
+    "lines": [
+      "41",
+      "56"
+    ],
+    "directions": {
+      "41": [
+        "Křimice",
+        "Vinice"
+      ],
+      "56": [
+        "Město Touškov",
+        "Vinice"
+      ]
+    }
+  },
+  {
+    "id": 117,
+    "name": "Prazdroj",
+    "lines": [
+      "13",
+      "28"
+    ],
+    "directions": {
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ],
+      "28": [
+        "CAN Husova",
+        "Papírna Bukovec"
+      ]
+    }
+  },
+  {
+    "id": 61,
+    "name": "Prokopova",
+    "lines": [
+      "10",
+      "13",
+      "14"
+    ],
+    "directions": {
+      "10": [
+        "Černice"
+      ],
+      "13": [
+        "NC Černice"
+      ],
+      "14": [
+        "Sídliště Bory"
+      ]
+    }
+  },
+  {
+    "id": 339,
+    "name": "Prostřední",
+    "lines": [
+      "43"
+    ],
+    "directions": {
+      "43": [
+        "Zadní Skvrňany",
+        "Zátiší"
+      ]
+    }
+  },
+  {
+    "id": 122,
+    "name": "Průmyslová",
+    "lines": [
+      "14"
+    ],
+    "directions": {
+      "14": [
+        "Pařížská",
+        "Sídliště Bory"
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "name": "Přední Skvrňany",
+    "lines": [
+      "2A"
+    ],
+    "directions": {
+      "2A": [
+        "Náměstí Republiky",
+        "Skvrňany"
+      ]
+    }
+  },
+  {
+    "id": 161,
+    "name": "Přeučilova",
+    "lines": [
+      "21",
+      "36"
+    ],
+    "directions": {
+      "21": [
+        "Bory",
+        "Litice"
+      ],
+      "36": [
+        "Bory",
+        "Sídliště Litice"
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "name": "Radnice Slovany",
+    "lines": [
+      "2",
+      "N2",
+      "N5"
+    ],
+    "directions": {
+      "2": [
+        "Sady Pětatřicátníků",
+        "Světovar"
+      ],
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 177,
+    "name": "Radobyčice",
+    "lines": [
+      "23",
+      "32"
+    ],
+    "directions": {
+      "23": [
+        "Bory",
+        "Slovany"
+      ],
+      "32": [
+        "NC Černice",
+        "Škoda VIII. brána"
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "name": "Radobyčická",
+    "lines": [
+      "10"
+    ],
+    "directions": {
+      "10": [
+        "Tylova"
+      ]
+    }
+  },
+  {
+    "id": 178,
+    "name": "Radobyčická náves",
+    "lines": [
+      "23",
+      "32",
+      "N5"
+    ],
+    "directions": {
+      "23": [
+        "Bory",
+        "Slovany"
+      ],
+      "32": [
+        "NC Černice",
+        "Škoda VIII. brána"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 258,
+    "name": "Radčice",
+    "lines": [
+      "11",
+      "24",
+      "25",
+      "35",
+      "37",
+      "N5"
+    ],
+    "directions": {
+      "11": [
+        "Křimice",
+        "Ústřední hřbitov"
+      ],
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "25": [
+        "Bolevec",
+        "Bory"
+      ],
+      "35": [
+        "Dolní Vlkýš",
+        "Radčice"
+      ],
+      "37": [
+        "Macháčkova"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 189,
+    "name": "Regensburská rondel",
+    "lines": [
+      "24",
+      "25"
+    ],
+    "directions": {
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "25": [
+        "Bolevec",
+        "Bory"
+      ]
+    }
+  },
+  {
+    "id": 212,
+    "name": "Rondel",
+    "lines": [
+      "27",
+      "33",
+      "34",
+      "40",
+      "41",
+      "56",
+      "N1",
+      "N3",
+      "N4",
+      "N6"
+    ],
+    "directions": {
+      "27": [
+        "Mrakodrap",
+        "Sídliště Košutka"
+      ],
+      "33": [
+        "Goethova",
+        "Sídliště Košutka"
+      ],
+      "34": [
+        "Pařížská",
+        "Třemošná, ves"
+      ],
+      "40": [
+        "Goethova",
+        "Sídliště Košutka"
+      ],
+      "41": [
+        "Křimice",
+        "Vinice"
+      ],
+      "56": [
+        "Město Touškov",
+        "Vinice"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ],
+      "N3": [
+        "Doubravka",
+        "Sídliště Košutka"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ]
+    }
+  },
+  {
+    "id": 182,
+    "name": "Rozcestí Podhájí",
+    "lines": [
+      "23",
+      "32",
+      "N5"
+    ],
+    "directions": {
+      "23": [
+        "Bory",
+        "Slovany"
+      ],
+      "32": [
+        "NC Černice",
+        "Škoda VIII. brána"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 221,
+    "name": "Rozcestí Újezd",
+    "lines": [
+      "28",
+      "N6"
+    ],
+    "directions": {
+      "28": [
+        "CAN Husova",
+        "Papírna Bukovec"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ]
+    }
+  },
+  {
+    "id": 123,
+    "name": "Révová",
+    "lines": [
+      "14"
+    ],
+    "directions": {
+      "14": [
+        "Pařížská",
+        "Sídliště Bory"
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "name": "Sady Pětatřicátníků",
+    "lines": [
+      "1",
+      "2",
+      "4",
+      "20",
+      "27",
+      "28",
+      "34",
+      "41",
+      "56",
+      "N3",
+      "N6"
+    ],
+    "directions": {
+      "1": [
+        "Slovany"
+      ],
+      "2": [
+        "Sady Pětatřicátníků",
+        "Světovar"
+      ],
+      "4": [
+        "Košutka",
+        "Univerzita"
+      ],
+      "20": [
+        "Zruč - Senec"
+      ],
+      "27": [
+        "Mrakodrap",
+        "Sídliště Košutka"
+      ],
+      "28": [
+        "CAN Husova",
+        "Papírna Bukovec"
+      ],
+      "34": [
+        "Pařížská",
+        "Třemošná, ves"
+      ],
+      "41": [
+        "Křimice",
+        "Vinice"
+      ],
+      "56": [
+        "Město Touškov",
+        "Vinice"
+      ],
+      "N3": [
+        "Doubravka",
+        "Sídliště Košutka"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ]
+    }
+  },
+  {
+    "id": 335,
+    "name": "Safírová",
+    "lines": [
+      "38",
+      "N6"
+    ],
+    "directions": {
+      "38": [
+        "Lobzy",
+        "Červený Hrádek"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ]
+    }
+  },
+  {
+    "id": 65,
+    "name": "Samaritská",
+    "lines": [
+      "10",
+      "13",
+      "14"
+    ],
+    "directions": {
+      "10": [
+        "Černice"
+      ],
+      "13": [
+        "NC Černice"
+      ],
+      "14": [
+        "Sídliště Bory"
+      ]
+    }
+  },
+  {
+    "id": 51,
+    "name": "Severka",
+    "lines": [
+      "4",
+      "24",
+      "30",
+      "33",
+      "40",
+      "N3",
+      "N6"
+    ],
+    "directions": {
+      "4": [
+        "Košutka",
+        "Univerzita"
+      ],
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ],
+      "33": [
+        "Goethova",
+        "Sídliště Košutka"
+      ],
+      "40": [
+        "Goethova",
+        "Sídliště Košutka"
+      ],
+      "N3": [
+        "Doubravka",
+        "Sídliště Košutka"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ]
+    }
+  },
+  {
+    "id": 205,
+    "name": "Severní",
+    "lines": [
+      "26"
+    ],
+    "directions": {
+      "26": [
+        "Nová Ves",
+        "U Luny"
+      ]
+    }
+  },
+  {
+    "id": 215,
+    "name": "Skautská",
+    "lines": [
+      "27"
+    ],
+    "directions": {
+      "27": [
+        "Mrakodrap",
+        "Sídliště Košutka"
+      ]
+    }
+  },
+  {
+    "id": 36,
+    "name": "Skvrňany",
+    "lines": [
+      "2A"
+    ],
+    "directions": {
+      "2A": [
+        "Náměstí Republiky",
+        "Skvrňany"
+      ]
+    }
+  },
+  {
+    "id": 320,
+    "name": "Sladová",
+    "lines": [
+      "N2",
+      "N5"
+    ],
+    "directions": {
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "name": "Slovanské údolí",
+    "lines": [
+      "2A"
+    ],
+    "directions": {
+      "2A": [
+        "Náměstí Republiky",
+        "Skvrňany"
+      ]
+    }
+  },
+  {
+    "id": 1,
+    "name": "Slovany",
+    "lines": [
+      "1",
+      "10",
+      "13",
+      "22",
+      "23",
+      "29",
+      "30",
+      "31",
+      "51",
+      "N2",
+      "N5"
+    ],
+    "directions": {
+      "1": [
+        "Bolevec",
+        "Slovany"
+      ],
+      "10": [
+        "Tylova",
+        "Černice"
+      ],
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ],
+      "22": [
+        "Koterov",
+        "Malvíny"
+      ],
+      "23": [
+        "Bory",
+        "Slovany"
+      ],
+      "29": [
+        "Borská pole",
+        "Doubravka"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ],
+      "31": [
+        "Hradiště",
+        "Slovany"
+      ],
+      "51": [
+        "Slovany",
+        "Starý Plzenec, Vilová čtvrť"
+      ],
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 194,
+    "name": "Slupská",
+    "lines": [
+      "41",
+      "56"
+    ],
+    "directions": {
+      "41": [
+        "Křimice",
+        "Vinice"
+      ],
+      "56": [
+        "Město Touškov",
+        "Vinice"
+      ]
+    }
+  },
+  {
+    "id": 50,
+    "name": "Sokolovská",
+    "lines": [
+      "4",
+      "33",
+      "40",
+      "N3",
+      "N6"
+    ],
+    "directions": {
+      "4": [
+        "Košutka",
+        "Univerzita"
+      ],
+      "33": [
+        "Goethova",
+        "Sídliště Košutka"
+      ],
+      "40": [
+        "Goethova",
+        "Sídliště Košutka"
+      ],
+      "N3": [
+        "Doubravka",
+        "Sídliště Košutka"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ]
+    }
+  },
+  {
+    "id": 130,
+    "name": "Sokolská",
+    "lines": [
+      "15",
+      "38"
+    ],
+    "directions": {
+      "15": [
+        "Lobzy",
+        "Nová Hospoda"
+      ],
+      "38": [
+        "Lobzy",
+        "Červený Hrádek"
+      ]
+    }
+  },
+  {
+    "id": 97,
+    "name": "Stadion Lokomotivy",
+    "lines": [
+      "12"
+    ],
+    "directions": {
+      "12": [
+        "Letkov, V Podlesí",
+        "Nová Hospoda"
+      ]
+    }
+  },
+  {
+    "id": 264,
+    "name": "Staré letiště",
+    "lines": [
+      "25"
+    ],
+    "directions": {
+      "25": [
+        "Bolevec"
+      ]
+    }
+  },
+  {
+    "id": 285,
+    "name": "Starý Plzenec",
+    "lines": [
+      "51"
+    ],
+    "directions": {
+      "51": [
+        "Starý Plzenec, Vilová čtvrť"
+      ]
+    }
+  },
+  {
+    "id": 278,
+    "name": "Starý Plzenec, Bezručova",
+    "lines": [
+      "50",
+      "N11"
+    ],
+    "directions": {
+      "50": [
+        "NC Černice",
+        "Starý Plzenec, Vilová čtvrť"
+      ],
+      "N11": [
+        "Bušovice, Sedlecko"
+      ]
+    }
+  },
+  {
+    "id": 283,
+    "name": "Starý Plzenec, Malá Strana",
+    "lines": [
+      "51",
+      "N11"
+    ],
+    "directions": {
+      "51": [
+        "Slovany",
+        "Starý Plzenec, Vilová čtvrť"
+      ],
+      "N11": [
+        "Bušovice, Sedlecko"
+      ]
+    }
+  },
+  {
+    "id": 280,
+    "name": "Starý Plzenec, Nad tratí",
+    "lines": [
+      "50",
+      "51"
+    ],
+    "directions": {
+      "50": [
+        "NC Černice",
+        "Starý Plzenec, Vilová čtvrť"
+      ],
+      "51": [
+        "Slovany",
+        "Starý Plzenec, Vilová čtvrť"
+      ]
+    }
+  },
+  {
+    "id": 287,
+    "name": "Starý Plzenec, Sedlec",
+    "lines": [
+      "51"
+    ],
+    "directions": {
+      "51": [
+        "Slovany",
+        "Starý Plzenec, Vilová čtvrť"
+      ]
+    }
+  },
+  {
+    "id": 286,
+    "name": "Starý Plzenec, Sedlec, Školní",
+    "lines": [
+      "51"
+    ],
+    "directions": {
+      "51": [
+        "Slovany",
+        "Starý Plzenec, Vilová čtvrť"
+      ]
+    }
+  },
+  {
+    "id": 282,
+    "name": "Starý Plzenec, U Mlýna",
+    "lines": [
+      "51"
+    ],
+    "directions": {
+      "51": [
+        "Slovany",
+        "Starý Plzenec, Vilová čtvrť"
+      ]
+    }
+  },
+  {
+    "id": 281,
+    "name": "Starý Plzenec, Vilová čtvrť",
+    "lines": [
+      "50",
+      "51"
+    ],
+    "directions": {
+      "50": [
+        "NC Černice",
+        "Starý Plzenec, Vilová čtvrť"
+      ],
+      "51": [
+        "Slovany",
+        "Starý Plzenec, Vilová čtvrť"
+      ]
+    }
+  },
+  {
+    "id": 289,
+    "name": "Starý Plzenec, nádraží",
+    "lines": [
+      "51"
+    ],
+    "directions": {
+      "51": [
+        "Starý Plzenec, Vilová čtvrť"
+      ]
+    }
+  },
+  {
+    "id": 284,
+    "name": "Starý Plzenec, náměstí",
+    "lines": [
+      "51",
+      "N11"
+    ],
+    "directions": {
+      "51": [
+        "Slovany"
+      ],
+      "N11": [
+        "Bušovice, Sedlecko"
+      ]
+    }
+  },
+  {
+    "id": 279,
+    "name": "Starý Plzenec, u školy",
+    "lines": [
+      "50",
+      "51"
+    ],
+    "directions": {
+      "50": [
+        "NC Černice"
+      ],
+      "51": [
+        "Slovany"
+      ]
+    }
+  },
+  {
+    "id": 288,
+    "name": "Starý Plzenec, zdrav. stř.",
+    "lines": [
+      "51"
+    ],
+    "directions": {
+      "51": [
+        "Starý Plzenec, Vilová čtvrť"
+      ]
+    }
+  },
+  {
+    "id": 116,
+    "name": "Stavební stroje",
+    "lines": [
+      "13",
+      "16",
+      "17",
+      "28"
+    ],
+    "directions": {
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ],
+      "16": [
+        "Doubravka",
+        "Sídliště Bory"
+      ],
+      "17": [
+        "Doubravka",
+        "Nová Hospoda"
+      ],
+      "28": [
+        "CAN Husova",
+        "Papírna Bukovec"
+      ]
+    }
+  },
+  {
+    "id": 312,
+    "name": "Stod",
+    "lines": [
+      "N12"
+    ],
+    "directions": {
+      "N12": [
+        "NC Borská pole",
+        "Stod"
+      ]
+    }
+  },
+  {
+    "id": 276,
+    "name": "Sulislavská",
+    "lines": [
+      "41",
+      "56"
+    ],
+    "directions": {
+      "41": [
+        "Křimice",
+        "Vinice"
+      ],
+      "56": [
+        "Město Touškov",
+        "Vinice"
+      ]
+    }
+  },
+  {
+    "id": 222,
+    "name": "Svatojirská",
+    "lines": [
+      "28"
+    ],
+    "directions": {
+      "28": [
+        "CAN Husova",
+        "Papírna Bukovec"
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "name": "Světovar",
+    "lines": [
+      "2",
+      "22",
+      "51",
+      "N2",
+      "N5"
+    ],
+    "directions": {
+      "2": [
+        "Sady Pětatřicátníků",
+        "Světovar"
+      ],
+      "22": [
+        "Koterov",
+        "Malvíny"
+      ],
+      "51": [
+        "Slovany",
+        "Starý Plzenec, Vilová čtvrť"
+      ],
+      "N2": [
+        "Zadní Skvrňany"
+      ],
+      "N5": [
+        "Malesice"
+      ]
+    }
+  },
+  {
+    "id": 128,
+    "name": "Sídliště Bory",
+    "lines": [
+      "14",
+      "16",
+      "30"
+    ],
+    "directions": {
+      "14": [
+        "Pařížská",
+        "Sídliště Bory"
+      ],
+      "16": [
+        "Doubravka",
+        "Sídliště Bory"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ]
+    }
+  },
+  {
+    "id": 217,
+    "name": "Sídliště Košutka",
+    "lines": [
+      "27",
+      "30",
+      "33",
+      "40",
+      "N3",
+      "N6"
+    ],
+    "directions": {
+      "27": [
+        "Mrakodrap",
+        "Sídliště Košutka"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ],
+      "33": [
+        "Goethova",
+        "Sídliště Košutka"
+      ],
+      "40": [
+        "Goethova",
+        "Sídliště Košutka"
+      ],
+      "N3": [
+        "Doubravka",
+        "Sídliště Košutka"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ]
+    }
+  },
+  {
+    "id": 345,
+    "name": "Sídliště Litice",
+    "lines": [
+      "36"
+    ],
+    "directions": {
+      "36": [
+        "Bory",
+        "Sídliště Litice"
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "name": "Techmania",
+    "lines": [
+      "15",
+      "17",
+      "18",
+      "19",
+      "22",
+      "N7"
+    ],
+    "directions": {
+      "15": [
+        "Lobzy",
+        "Nová Hospoda"
+      ],
+      "17": [
+        "Doubravka",
+        "Nová Hospoda"
+      ],
+      "18": [
+        "Borská pole",
+        "CAN Husova"
+      ],
+      "19": [
+        "Karlov",
+        "Nová Hospoda"
+      ],
+      "22": [
+        "Koterov",
+        "Malvíny"
+      ],
+      "N7": [
+        "Mrakodrap",
+        "Nová Hospoda"
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "name": "Technická",
+    "lines": [
+      "4"
+    ],
+    "directions": {
+      "4": [
+        "Košutka",
+        "Univerzita"
+      ]
+    }
+  },
+  {
+    "id": 145,
+    "name": "Teplárna",
+    "lines": [
+      "28"
+    ],
+    "directions": {
+      "28": [
+        "CAN Husova",
+        "Papírna Bukovec"
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "name": "Terezie Brzkové",
+    "lines": [
+      "2A"
+    ],
+    "directions": {
+      "2A": [
+        "Náměstí Republiky"
+      ]
+    }
+  },
+  {
+    "id": 214,
+    "name": "Tleskačova",
+    "lines": [
+      "27"
+    ],
+    "directions": {
+      "27": [
+        "Mrakodrap",
+        "Sídliště Košutka"
+      ]
+    }
+  },
+  {
+    "id": 54,
+    "name": "Tylova",
+    "lines": [
+      "10",
+      "11",
+      "12",
+      "15",
+      "16",
+      "17",
+      "18",
+      "N2",
+      "N5",
+      "N7"
+    ],
+    "directions": {
+      "10": [
+        "Tylova",
+        "Černice"
+      ],
+      "11": [
+        "Křimice",
+        "Ústřední hřbitov"
+      ],
+      "12": [
+        "Letkov, V Podlesí",
+        "Nová Hospoda"
+      ],
+      "15": [
+        "Lobzy",
+        "Nová Hospoda"
+      ],
+      "16": [
+        "Doubravka",
+        "Sídliště Bory"
+      ],
+      "17": [
+        "Doubravka",
+        "Nová Hospoda"
+      ],
+      "18": [
+        "Borská pole",
+        "CAN Husova"
+      ],
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ],
+      "N7": [
+        "Mrakodrap",
+        "Nová Hospoda"
+      ]
+    }
+  },
+  {
+    "id": 124,
+    "name": "Tyršův most",
+    "lines": [
+      "14",
+      "22",
+      "23",
+      "30",
+      "32",
+      "39"
+    ],
+    "directions": {
+      "14": [
+        "Pařížská",
+        "Sídliště Bory"
+      ],
+      "22": [
+        "Koterov",
+        "Malvíny"
+      ],
+      "23": [
+        "Bory",
+        "Slovany"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ],
+      "32": [
+        "NC Černice",
+        "Škoda VIII. brána"
+      ],
+      "39": [
+        "Kalendářní",
+        "Tyršův most"
+      ]
+    }
+  },
+  {
+    "id": 159,
+    "name": "Tyršův sad",
+    "lines": [
+      "21",
+      "36",
+      "39",
+      "N4"
+    ],
+    "directions": {
+      "21": [
+        "Bory",
+        "Litice"
+      ],
+      "36": [
+        "Bory",
+        "Sídliště Litice"
+      ],
+      "39": [
+        "Kalendářní",
+        "Tyršův most"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 115,
+    "name": "Těšínská",
+    "lines": [
+      "13",
+      "16",
+      "17"
+    ],
+    "directions": {
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ],
+      "16": [
+        "Doubravka",
+        "Sídliště Bory"
+      ],
+      "17": [
+        "Doubravka",
+        "Nová Hospoda"
+      ]
+    }
+  },
+  {
+    "id": 251,
+    "name": "Třemošná, Orlík",
+    "lines": [
+      "34",
+      "58"
+    ],
+    "directions": {
+      "34": [
+        "Pařížská",
+        "Třemošná, ves"
+      ],
+      "58": [
+        "Nádraží Bílá Hora",
+        "Okounová"
+      ]
+    }
+  },
+  {
+    "id": 337,
+    "name": "Třemošná, Pod Luhovou",
+    "lines": [
+      "58"
+    ],
+    "directions": {
+      "58": [
+        "Nádraží Bílá Hora",
+        "Okounová"
+      ]
+    }
+  },
+  {
+    "id": 252,
+    "name": "Třemošná, sídliště",
+    "lines": [
+      "34",
+      "58"
+    ],
+    "directions": {
+      "34": [
+        "Pařížská",
+        "Třemošná, ves"
+      ],
+      "58": [
+        "Nádraží Bílá Hora",
+        "Okounová"
+      ]
+    }
+  },
+  {
+    "id": 313,
+    "name": "Třemošná, u pošty",
+    "lines": [
+      "58"
+    ],
+    "directions": {
+      "58": [
+        "Nádraží Bílá Hora",
+        "Okounová"
+      ]
+    }
+  },
+  {
+    "id": 253,
+    "name": "Třemošná, ves",
+    "lines": [
+      "34",
+      "58"
+    ],
+    "directions": {
+      "34": [
+        "Pařížská",
+        "Třemošná, ves"
+      ],
+      "58": [
+        "Nádraží Bílá Hora",
+        "Okounová"
+      ]
+    }
+  },
+  {
+    "id": 275,
+    "name": "U Apolla",
+    "lines": [
+      "41",
+      "56"
+    ],
+    "directions": {
+      "41": [
+        "Křimice",
+        "Vinice"
+      ],
+      "56": [
+        "Město Touškov",
+        "Vinice"
+      ]
+    }
+  },
+  {
+    "id": 255,
+    "name": "U Bouzků",
+    "lines": [
+      "11"
+    ],
+    "directions": {
+      "11": [
+        "Křimice",
+        "Ústřední hřbitov"
+      ]
+    }
+  },
+  {
+    "id": 184,
+    "name": "U Darebáka",
+    "lines": [
+      "19",
+      "24",
+      "25",
+      "26",
+      "42"
+    ],
+    "directions": {
+      "19": [
+        "Karlov"
+      ],
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "25": [
+        "Bolevec",
+        "Bory"
+      ],
+      "26": [
+        "Nová Ves",
+        "U Luny"
+      ],
+      "42": [
+        "Lhota",
+        "U Luny"
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "name": "U Družby",
+    "lines": [
+      "4",
+      "25",
+      "33",
+      "40",
+      "N1",
+      "N4"
+    ],
+    "directions": {
+      "4": [
+        "Košutka",
+        "Univerzita"
+      ],
+      "25": [
+        "Bory"
+      ],
+      "33": [
+        "Goethova",
+        "Sídliště Košutka"
+      ],
+      "40": [
+        "Goethova",
+        "Sídliště Košutka"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 100,
+    "name": "U Dráhy",
+    "lines": [
+      "12"
+    ],
+    "directions": {
+      "12": [
+        "Letkov, V Podlesí",
+        "Nová Hospoda"
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "name": "U Duhy",
+    "lines": [
+      "2",
+      "12"
+    ],
+    "directions": {
+      "2": [
+        "Sady Pětatřicátníků",
+        "Světovar"
+      ],
+      "12": [
+        "Letkov, V Podlesí",
+        "Nová Hospoda"
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "name": "U Gery",
+    "lines": [
+      "1",
+      "25",
+      "34",
+      "N1",
+      "N4"
+    ],
+    "directions": {
+      "1": [
+        "Bolevec",
+        "Slovany"
+      ],
+      "25": [
+        "Bolevec",
+        "Bory"
+      ],
+      "34": [
+        "Pařížská",
+        "Třemošná, ves"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 175,
+    "name": "U Hřbitova",
+    "lines": [
+      "23",
+      "32"
+    ],
+    "directions": {
+      "23": [
+        "Bory",
+        "Slovany"
+      ],
+      "32": [
+        "NC Černice",
+        "Škoda VIII. brána"
+      ]
+    }
+  },
+  {
+    "id": 69,
+    "name": "U Kasáren",
+    "lines": [
+      "10",
+      "13",
+      "N2",
+      "N5"
+    ],
+    "directions": {
+      "10": [
+        "Tylova",
+        "Černice"
+      ],
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ],
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 150,
+    "name": "U Kondrů",
+    "lines": [
+      "20",
+      "58"
+    ],
+    "directions": {
+      "20": [
+        "Mrakodrap",
+        "Zruč - Senec"
+      ],
+      "58": [
+        "Nádraží Bílá Hora",
+        "Okounová"
+      ]
+    }
+  },
+  {
+    "id": 186,
+    "name": "U Letiště",
+    "lines": [
+      "24",
+      "30",
+      "N1"
+    ],
+    "directions": {
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ],
+      "N1": [
+        "Panasonic"
+      ]
+    }
+  },
+  {
+    "id": 127,
+    "name": "U Luny",
+    "lines": [
+      "14",
+      "16",
+      "19",
+      "21",
+      "23",
+      "26",
+      "32",
+      "36",
+      "39",
+      "42",
+      "N1",
+      "N4"
+    ],
+    "directions": {
+      "14": [
+        "Pařížská",
+        "Sídliště Bory"
+      ],
+      "16": [
+        "Doubravka",
+        "Sídliště Bory"
+      ],
+      "19": [
+        "Karlov",
+        "Nová Hospoda"
+      ],
+      "21": [
+        "Bory"
+      ],
+      "23": [
+        "Bory",
+        "Slovany"
+      ],
+      "26": [
+        "Nová Ves",
+        "U Luny"
+      ],
+      "32": [
+        "NC Černice",
+        "Škoda VIII. brána"
+      ],
+      "36": [
+        "Bory"
+      ],
+      "39": [
+        "Kalendářní",
+        "Tyršův most"
+      ],
+      "42": [
+        "Lhota",
+        "U Luny"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 109,
+    "name": "U Nové Hospody",
+    "lines": [
+      "15",
+      "17",
+      "18",
+      "19",
+      "24",
+      "29",
+      "30",
+      "N7"
+    ],
+    "directions": {
+      "15": [
+        "Lobzy",
+        "Nová Hospoda"
+      ],
+      "17": [
+        "Doubravka",
+        "Nová Hospoda"
+      ],
+      "18": [
+        "Borská pole",
+        "CAN Husova"
+      ],
+      "19": [
+        "Karlov",
+        "Nová Hospoda"
+      ],
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "29": [
+        "Borská pole",
+        "Doubravka"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ],
+      "N7": [
+        "Mrakodrap",
+        "Nová Hospoda"
+      ]
+    }
+  },
+  {
+    "id": 108,
+    "name": "U Panasoniku",
+    "lines": [
+      "15",
+      "17",
+      "18",
+      "19",
+      "22",
+      "29",
+      "N7"
+    ],
+    "directions": {
+      "15": [
+        "Lobzy",
+        "Nová Hospoda"
+      ],
+      "17": [
+        "Doubravka",
+        "Nová Hospoda"
+      ],
+      "18": [
+        "Borská pole",
+        "CAN Husova"
+      ],
+      "19": [
+        "Nová Hospoda"
+      ],
+      "22": [
+        "Koterov"
+      ],
+      "29": [
+        "Borská pole",
+        "Doubravka"
+      ],
+      "N7": [
+        "Mrakodrap",
+        "Nová Hospoda"
+      ]
+    }
+  },
+  {
+    "id": 131,
+    "name": "U Pietasu",
+    "lines": [
+      "15",
+      "38",
+      "N3",
+      "N6"
+    ],
+    "directions": {
+      "15": [
+        "Lobzy",
+        "Nová Hospoda"
+      ],
+      "38": [
+        "Lobzy",
+        "Červený Hrádek"
+      ],
+      "N3": [
+        "Doubravka",
+        "Sídliště Košutka"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ]
+    }
+  },
+  {
+    "id": 64,
+    "name": "U Plynárny",
+    "lines": [
+      "10",
+      "13",
+      "14"
+    ],
+    "directions": {
+      "10": [
+        "Tylova",
+        "Černice"
+      ],
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ],
+      "14": [
+        "Pařížská",
+        "Sídliště Bory"
+      ]
+    }
+  },
+  {
+    "id": 204,
+    "name": "U Prodejny",
+    "lines": [
+      "26",
+      "42",
+      "N4"
+    ],
+    "directions": {
+      "26": [
+        "Nová Ves",
+        "U Luny"
+      ],
+      "42": [
+        "Lhota",
+        "U Luny"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 46,
+    "name": "U Práce",
+    "lines": [
+      "4",
+      "10",
+      "11",
+      "12",
+      "15",
+      "16",
+      "17",
+      "20",
+      "27",
+      "N1",
+      "N12",
+      "N2",
+      "N3",
+      "N4",
+      "N5",
+      "N6",
+      "N7"
+    ],
+    "directions": {
+      "4": [
+        "Košutka",
+        "Univerzita"
+      ],
+      "10": [
+        "Černice"
+      ],
+      "11": [
+        "Křimice",
+        "Ústřední hřbitov"
+      ],
+      "12": [
+        "Letkov, V Podlesí",
+        "Nová Hospoda"
+      ],
+      "15": [
+        "Lobzy",
+        "Nová Hospoda"
+      ],
+      "16": [
+        "Doubravka",
+        "Sídliště Bory"
+      ],
+      "17": [
+        "Doubravka",
+        "Nová Hospoda"
+      ],
+      "20": [
+        "Zruč - Senec"
+      ],
+      "27": [
+        "Mrakodrap",
+        "Sídliště Košutka"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ],
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N3": [
+        "Doubravka",
+        "Sídliště Košutka"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ],
+      "N7": [
+        "Mrakodrap",
+        "Nová Hospoda"
+      ],
+      "N12": [
+        "Stod"
+      ]
+    }
+  },
+  {
+    "id": 158,
+    "name": "U Přehrady",
+    "lines": [
+      "21",
+      "36",
+      "39",
+      "N4"
+    ],
+    "directions": {
+      "21": [
+        "Bory",
+        "Litice"
+      ],
+      "36": [
+        "Bory",
+        "Sídliště Litice"
+      ],
+      "39": [
+        "Kalendářní",
+        "Tyršův most"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 336,
+    "name": "U Přivaděče",
+    "lines": [
+      "22"
+    ],
+    "directions": {
+      "22": [
+        "Koterov",
+        "Malvíny"
+      ]
+    }
+  },
+  {
+    "id": 62,
+    "name": "U Radbuzy",
+    "lines": [
+      "10",
+      "13",
+      "14"
+    ],
+    "directions": {
+      "10": [
+        "Tylova",
+        "Černice"
+      ],
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ],
+      "14": [
+        "Pařížská",
+        "Sídliště Bory"
+      ]
+    }
+  },
+  {
+    "id": 75,
+    "name": "U Staré Kovárny",
+    "lines": [
+      "10",
+      "13",
+      "23",
+      "32",
+      "N2",
+      "N5"
+    ],
+    "directions": {
+      "10": [
+        "Tylova",
+        "Černice"
+      ],
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ],
+      "23": [
+        "Bory",
+        "Slovany"
+      ],
+      "32": [
+        "NC Černice",
+        "Škoda VIII. brána"
+      ],
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 319,
+    "name": "U Světovaru",
+    "lines": [
+      "N2",
+      "N5"
+    ],
+    "directions": {
+      "N2": [
+        "Černice"
+      ],
+      "N5": [
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 323,
+    "name": "U Synagogy",
+    "lines": [
+      "2A"
+    ],
+    "directions": {
+      "2A": [
+        "Náměstí Republiky"
+      ]
+    }
+  },
+  {
+    "id": 126,
+    "name": "U Teplárny",
+    "lines": [
+      "14",
+      "16",
+      "19",
+      "23",
+      "32",
+      "39",
+      "N1",
+      "N4"
+    ],
+    "directions": {
+      "14": [
+        "Pařížská",
+        "Sídliště Bory"
+      ],
+      "16": [
+        "Doubravka",
+        "Sídliště Bory"
+      ],
+      "19": [
+        "Karlov",
+        "Nová Hospoda"
+      ],
+      "23": [
+        "Bory",
+        "Slovany"
+      ],
+      "32": [
+        "NC Černice",
+        "Škoda VIII. brána"
+      ],
+      "39": [
+        "Kalendářní",
+        "Tyršův most"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 269,
+    "name": "U Továrničky",
+    "lines": [
+      "38",
+      "N6"
+    ],
+    "directions": {
+      "38": [
+        "Lobzy",
+        "Červený Hrádek"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ]
+    }
+  },
+  {
+    "id": 78,
+    "name": "U Václava",
+    "lines": [
+      "11"
+    ],
+    "directions": {
+      "11": [
+        "Křimice"
+      ]
+    }
+  },
+  {
+    "id": 68,
+    "name": "U Školky",
+    "lines": [
+      "10",
+      "13",
+      "31",
+      "N2",
+      "N5"
+    ],
+    "directions": {
+      "10": [
+        "Tylova",
+        "Černice"
+      ],
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ],
+      "31": [
+        "Hradiště",
+        "Slovany"
+      ],
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 37,
+    "name": "Univerzita",
+    "lines": [
+      "4"
+    ],
+    "directions": {
+      "4": [
+        "Košutka",
+        "Univerzita"
+      ]
+    }
+  },
+  {
+    "id": 141,
+    "name": "V Ráji",
+    "lines": [
+      "20"
+    ],
+    "directions": {
+      "20": [
+        "Mrakodrap",
+        "Zruč - Senec"
+      ]
+    }
+  },
+  {
+    "id": 176,
+    "name": "V Zahradách",
+    "lines": [
+      "23",
+      "32"
+    ],
+    "directions": {
+      "23": [
+        "Bory",
+        "Slovany"
+      ],
+      "32": [
+        "NC Černice",
+        "Škoda VIII. brána"
+      ]
+    }
+  },
+  {
+    "id": 206,
+    "name": "Valcha",
+    "lines": [
+      "26"
+    ],
+    "directions": {
+      "26": [
+        "Nová Ves",
+        "U Luny"
+      ]
+    }
+  },
+  {
+    "id": 305,
+    "name": "Vejprnice, Náves",
+    "lines": [
+      "N12"
+    ],
+    "directions": {
+      "N12": [
+        "Stod"
+      ]
+    }
+  },
+  {
+    "id": 304,
+    "name": "Vejprnice, Pod farou",
+    "lines": [
+      "N12"
+    ],
+    "directions": {
+      "N12": [
+        "Stod"
+      ]
+    }
+  },
+  {
+    "id": 303,
+    "name": "Vejprnice, bytovky",
+    "lines": [
+      "N12"
+    ],
+    "directions": {
+      "N12": [
+        "Stod"
+      ]
+    }
+  },
+  {
+    "id": 193,
+    "name": "Vinice",
+    "lines": [
+      "41",
+      "56"
+    ],
+    "directions": {
+      "41": [
+        "Křimice",
+        "Vinice"
+      ],
+      "56": [
+        "Město Touškov",
+        "Vinice"
+      ]
+    }
+  },
+  {
+    "id": 160,
+    "name": "Višňovka",
+    "lines": [
+      "21",
+      "36"
+    ],
+    "directions": {
+      "21": [
+        "Bory",
+        "Litice"
+      ],
+      "36": [
+        "Bory",
+        "Sídliště Litice"
+      ]
+    }
+  },
+  {
+    "id": 187,
+    "name": "Vltava",
+    "lines": [
+      "24",
+      "30",
+      "N1"
+    ],
+    "directions": {
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ],
+      "N1": [
+        "Panasonic"
+      ]
+    }
+  },
+  {
+    "id": 290,
+    "name": "Vochov",
+    "lines": [
+      "56"
+    ],
+    "directions": {
+      "56": [
+        "Město Touškov",
+        "Vinice"
+      ]
+    }
+  },
+  {
+    "id": 291,
+    "name": "Vochov, rozc.",
+    "lines": [
+      "56"
+    ],
+    "directions": {
+      "56": [
+        "Vinice"
+      ]
+    }
+  },
+  {
+    "id": 67,
+    "name": "Vodárna",
+    "lines": [
+      "10",
+      "13",
+      "22",
+      "29",
+      "30"
+    ],
+    "directions": {
+      "10": [
+        "Tylova",
+        "Černice"
+      ],
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ],
+      "22": [
+        "Koterov",
+        "Malvíny"
+      ],
+      "29": [
+        "Borská pole",
+        "Doubravka"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ]
+    }
+  },
+  {
+    "id": 171,
+    "name": "Vozovna Slovany",
+    "lines": [
+      "22",
+      "51",
+      "N2",
+      "N5"
+    ],
+    "directions": {
+      "22": [
+        "Koterov",
+        "Malvíny"
+      ],
+      "51": [
+        "Slovany",
+        "Starý Plzenec, Vilová čtvrť"
+      ],
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 344,
+    "name": "Větrná",
+    "lines": [
+      "36"
+    ],
+    "directions": {
+      "36": [
+        "Sídliště Litice"
+      ]
+    }
+  },
+  {
+    "id": 157,
+    "name": "Věznice Bory",
+    "lines": [
+      "21",
+      "36",
+      "39",
+      "N4"
+    ],
+    "directions": {
+      "21": [
+        "Bory",
+        "Litice"
+      ],
+      "36": [
+        "Bory",
+        "Sídliště Litice"
+      ],
+      "39": [
+        "Kalendářní",
+        "Tyršův most"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Vřesová",
+    "lines": [
+      "1"
+    ],
+    "directions": {
+      "1": [
+        "Bolevec",
+        "Slovany"
+      ]
+    }
+  },
+  {
+    "id": 190,
+    "name": "Waltrova",
+    "lines": [
+      "24",
+      "25",
+      "43"
+    ],
+    "directions": {
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "25": [
+        "Bolevec",
+        "Bory"
+      ],
+      "43": [
+        "Zadní Skvrňany",
+        "Zátiší"
+      ]
+    }
+  },
+  {
+    "id": 142,
+    "name": "Zadní Roudná",
+    "lines": [
+      "20"
+    ],
+    "directions": {
+      "20": [
+        "Mrakodrap",
+        "Zruč - Senec"
+      ]
+    }
+  },
+  {
+    "id": 192,
+    "name": "Zadní Skvrňany",
+    "lines": [
+      "24",
+      "25",
+      "43",
+      "N2",
+      "N5"
+    ],
+    "directions": {
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "25": [
+        "Bolevec",
+        "Bory"
+      ],
+      "43": [
+        "Zadní Skvrňany",
+        "Zátiší"
+      ],
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 308,
+    "name": "Zbůch",
+    "lines": [
+      "N12"
+    ],
+    "directions": {
+      "N12": [
+        "NC Borská pole",
+        "Stod"
+      ]
+    }
+  },
+  {
+    "id": 309,
+    "name": "Zbůch, Starý důl rozc.",
+    "lines": [
+      "N12"
+    ],
+    "directions": {
+      "N12": [
+        "NC Borská pole",
+        "Stod"
+      ]
+    }
+  },
+  {
+    "id": 247,
+    "name": "Zelenohorská",
+    "lines": [
+      "31"
+    ],
+    "directions": {
+      "31": [
+        "Hradiště",
+        "Slovany"
+      ]
+    }
+  },
+  {
+    "id": 63,
+    "name": "Zimní stadion",
+    "lines": [
+      "10",
+      "13",
+      "14"
+    ],
+    "directions": {
+      "10": [
+        "Tylova",
+        "Černice"
+      ],
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ],
+      "14": [
+        "Pařížská",
+        "Sídliště Bory"
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "name": "Zoologická zahrada",
+    "lines": [
+      "4",
+      "25",
+      "27",
+      "41",
+      "56",
+      "N1",
+      "N4"
+    ],
+    "directions": {
+      "4": [
+        "Košutka",
+        "Univerzita"
+      ],
+      "25": [
+        "Bolevec"
+      ],
+      "27": [
+        "Mrakodrap",
+        "Sídliště Košutka"
+      ],
+      "41": [
+        "Křimice",
+        "Vinice"
+      ],
+      "56": [
+        "Město Touškov",
+        "Vinice"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 156,
+    "name": "Zruč - Senec",
+    "lines": [
+      "20",
+      "58"
+    ],
+    "directions": {
+      "20": [
+        "Mrakodrap",
+        "Zruč - Senec"
+      ],
+      "58": [
+        "Nádraží Bílá Hora",
+        "Okounová"
+      ]
+    }
+  },
+  {
+    "id": 153,
+    "name": "Zruč - Senec, U pomníku",
+    "lines": [
+      "20",
+      "58"
+    ],
+    "directions": {
+      "20": [
+        "Mrakodrap",
+        "Zruč - Senec"
+      ],
+      "58": [
+        "Nádraží Bílá Hora",
+        "Okounová"
+      ]
+    }
+  },
+  {
+    "id": 152,
+    "name": "Zruč - Senec, V koutě",
+    "lines": [
+      "20",
+      "58"
+    ],
+    "directions": {
+      "20": [
+        "Mrakodrap",
+        "Zruč - Senec"
+      ],
+      "58": [
+        "Nádraží Bílá Hora",
+        "Okounová"
+      ]
+    }
+  },
+  {
+    "id": 155,
+    "name": "Zruč - Senec, rozc.",
+    "lines": [
+      "20",
+      "58"
+    ],
+    "directions": {
+      "20": [
+        "Mrakodrap",
+        "Zruč - Senec"
+      ],
+      "58": [
+        "Nádraží Bílá Hora",
+        "Okounová"
+      ]
+    }
+  },
+  {
+    "id": 154,
+    "name": "Zruč - Senec, u Drudíků",
+    "lines": [
+      "20",
+      "58"
+    ],
+    "directions": {
+      "20": [
+        "Mrakodrap",
+        "Zruč - Senec"
+      ],
+      "58": [
+        "Nádraží Bílá Hora",
+        "Okounová"
+      ]
+    }
+  },
+  {
+    "id": 261,
+    "name": "Zámecké náměstí",
+    "lines": [
+      "11",
+      "24",
+      "25",
+      "37",
+      "N5"
+    ],
+    "directions": {
+      "11": [
+        "Křimice",
+        "Ústřední hřbitov"
+      ],
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "25": [
+        "Bolevec",
+        "Bory"
+      ],
+      "37": [
+        "Macháčkova"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 185,
+    "name": "Západočeská univerzita",
+    "lines": [
+      "19",
+      "24",
+      "25",
+      "30",
+      "N1"
+    ],
+    "directions": {
+      "19": [
+        "Karlov"
+      ],
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "25": [
+        "Bolevec",
+        "Bory"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ]
+    }
+  },
+  {
+    "id": 103,
+    "name": "Zátiší",
+    "lines": [
+      "12",
+      "43"
+    ],
+    "directions": {
+      "12": [
+        "Letkov, V Podlesí",
+        "Nová Hospoda"
+      ],
+      "43": [
+        "Zadní Skvrňany",
+        "Zátiší"
+      ]
+    }
+  },
+  {
+    "id": 77,
+    "name": "Ústřední hřbitov",
+    "lines": [
+      "11"
+    ],
+    "directions": {
+      "11": [
+        "Křimice",
+        "Ústřední hřbitov"
+      ]
+    }
+  },
+  {
+    "id": 199,
+    "name": "Úřad Lochotín",
+    "lines": [
+      "25",
+      "33",
+      "40",
+      "N1",
+      "N4"
+    ],
+    "directions": {
+      "25": [
+        "Bory"
+      ],
+      "33": [
+        "Goethova",
+        "Sídliště Košutka"
+      ],
+      "40": [
+        "Goethova",
+        "Sídliště Košutka"
+      ],
+      "N1": [
+        "Bolevec",
+        "Panasonic"
+      ],
+      "N4": [
+        "Bílá Hora",
+        "Náves Lhota"
+      ]
+    }
+  },
+  {
+    "id": 71,
+    "name": "Čechurov",
+    "lines": [
+      "10",
+      "13",
+      "23",
+      "N2",
+      "N5"
+    ],
+    "directions": {
+      "10": [
+        "Tylova",
+        "Černice"
+      ],
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ],
+      "23": [
+        "Bory",
+        "Slovany"
+      ],
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N5": [
+        "Malesice"
+      ]
+    }
+  },
+  {
+    "id": 232,
+    "name": "Čermákova",
+    "lines": [
+      "29"
+    ],
+    "directions": {
+      "29": [
+        "Borská pole",
+        "Doubravka"
+      ]
+    }
+  },
+  {
+    "id": 76,
+    "name": "Černice",
+    "lines": [
+      "10",
+      "13",
+      "N2",
+      "N5"
+    ],
+    "directions": {
+      "10": [
+        "Tylova",
+        "Černice"
+      ],
+      "13": [
+        "NC Černice",
+        "Na Dlouhých"
+      ],
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 271,
+    "name": "Červený Hrádek",
+    "lines": [
+      "38",
+      "N6"
+    ],
+    "directions": {
+      "38": [
+        "Lobzy",
+        "Červený Hrádek"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ]
+    }
+  },
+  {
+    "id": 148,
+    "name": "Čisticí stanice",
+    "lines": [
+      "30"
+    ],
+    "directions": {
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ]
+    }
+  },
+  {
+    "id": 273,
+    "name": "Říjnová",
+    "lines": [
+      "39"
+    ],
+    "directions": {
+      "39": [
+        "Kalendářní",
+        "Tyršův most"
+      ]
+    }
+  },
+  {
+    "id": 238,
+    "name": "Šimerova",
+    "lines": [
+      "30"
+    ],
+    "directions": {
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "name": "Škoda III. brána",
+    "lines": [
+      "12",
+      "2A"
+    ],
+    "directions": {
+      "2A": [
+        "Náměstí Republiky",
+        "Skvrňany"
+      ],
+      "12": [
+        "Letkov, V Podlesí",
+        "Nová Hospoda"
+      ]
+    }
+  },
+  {
+    "id": 173,
+    "name": "Škoda VIII. brána",
+    "lines": [
+      "22",
+      "32"
+    ],
+    "directions": {
+      "22": [
+        "Koterov",
+        "Malvíny"
+      ],
+      "32": [
+        "NC Černice",
+        "Škoda VIII. brána"
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "name": "Školy Vejprnická",
+    "lines": [
+      "2A",
+      "N2",
+      "N5"
+    ],
+    "directions": {
+      "2A": [
+        "Náměstí Republiky",
+        "Skvrňany"
+      ],
+      "N2": [
+        "Zadní Skvrňany",
+        "Černice"
+      ],
+      "N5": [
+        "Malesice",
+        "Radobyčická náves"
+      ]
+    }
+  },
+  {
+    "id": 343,
+    "name": "Šlovická",
+    "lines": [
+      "36"
+    ],
+    "directions": {
+      "36": [
+        "Sídliště Litice"
+      ]
+    }
+  },
+  {
+    "id": 330,
+    "name": "Špačková",
+    "lines": [
+      "42"
+    ],
+    "directions": {
+      "42": [
+        "Lhota",
+        "U Luny"
+      ]
+    }
+  },
+  {
+    "id": 226,
+    "name": "Švihovská",
+    "lines": [
+      "28"
+    ],
+    "directions": {
+      "28": [
+        "Papírna Bukovec"
+      ]
+    }
+  },
+  {
+    "id": 84,
+    "name": "Železniční poliklinika",
+    "lines": [
+      "11",
+      "15",
+      "16",
+      "17"
+    ],
+    "directions": {
+      "11": [
+        "Ústřední hřbitov"
+      ],
+      "15": [
+        "Lobzy"
+      ],
+      "16": [
+        "Doubravka"
+      ],
+      "17": [
+        "Doubravka"
+      ]
+    }
+  },
+  {
+    "id": 244,
+    "name": "Žlutická",
+    "lines": [
+      "24",
+      "30",
+      "33",
+      "40",
+      "N3",
+      "N6"
+    ],
+    "directions": {
+      "24": [
+        "Bolevec",
+        "Bory"
+      ],
+      "30": [
+        "Borská pole",
+        "Sídliště Košutka"
+      ],
+      "33": [
+        "Goethova",
+        "Sídliště Košutka"
+      ],
+      "40": [
+        "Goethova",
+        "Sídliště Košutka"
+      ],
+      "N3": [
+        "Doubravka",
+        "Sídliště Košutka"
+      ],
+      "N6": [
+        "Sídliště Košutka",
+        "Červený Hrádek"
+      ]
+    }
+  }
+]
